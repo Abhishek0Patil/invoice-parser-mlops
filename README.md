@@ -4,8 +4,6 @@ An end-to-end machine learning project to automatically extract key information 
 
 The primary goal is to build a robust pipeline that can be deployed as a service, demonstrating a full cycle of MLOps from data engineering to model training and inference.
 
-![Project Demo GIF (Placeholder)](https://media.giphy.com/media/l4pTfx2qLszoacZ32/giphy.gif)
-*(Placeholder: In a final version, this would be a GIF of the Streamlit/Gradio app in action)*
 
 ---
 
