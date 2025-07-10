@@ -1,0 +1,1250 @@
+[
+    {
+        "text": "TAX",
+        "left": 2265,
+        "top": 972,
+        "width": 113,
+        "height": 39,
+        "conf": 94
+    },
+    {
+        "text": "INVOICE",
+        "left": 2411,
+        "top": 971,
+        "width": 253,
+        "height": 39,
+        "conf": 93
+    },
+    {
+        "text": "DOMINO'S",
+        "left": 2221,
+        "top": 1054,
+        "width": 288,
+        "height": 43,
+        "conf": 90
+    },
+    {
+        "text": "PI2ZZa",
+        "left": 2556,
+        "top": 1054,
+        "width": 174,
+        "height": 45,
+        "conf": 65
+    },
+    {
+        "text": "GST",
+        "left": 1986,
+        "top": 1165,
+        "width": 111,
+        "height": 42,
+        "conf": 95
+    },
+    {
+        "text": "REF",
+        "left": 2145,
+        "top": 1165,
+        "width": 112,
+        "height": 42,
+        "conf": 96
+    },
+    {
+        "text": "No",
+        "left": 2304,
+        "top": 1165,
+        "width": 72,
+        "height": 42,
+        "conf": 65
+    },
+    {
+        "text": ":",
+        "left": 2435,
+        "top": 1176,
+        "width": 11,
+        "height": 31,
+        "conf": 91
+    },
+    {
+        "text": "001694261248",
+        "left": 2502,
+        "top": 1162,
+        "width": 463,
+        "height": 46,
+        "conf": 96
+    },
+    {
+        "text": "DOMINO'S",
+        "left": 1952,
+        "top": 1263,
+        "width": 314,
+        "height": 42,
+        "conf": 95
+    },
+    {
+        "text": "PIZZA",
+        "left": 2314,
+        "top": 1263,
+        "width": 193,
+        "height": 42,
+        "conf": 93
+    },
+    {
+        "text": "PERMAS",
+        "left": 2550,
+        "top": 1263,
+        "width": 230,
+        "height": 43,
+        "conf": 90
+    },
+    {
+        "text": "JAYA",
+        "left": 2827,
+        "top": 1264,
+        "width": 153,
+        "height": 43,
+        "conf": 92
+    },
+    {
+        "text": "No.12,",
+        "left": 1924,
+        "top": 1358,
+        "width": 222,
+        "height": 54,
+        "conf": 87
+    },
+    {
+        "text": "Jalan",
+        "left": 2203,
+        "top": 1357,
+        "width": 191,
+        "height": 46,
+        "conf": 93
+    },
+    {
+        "text": "Permas",
+        "left": 2441,
+        "top": 1360,
+        "width": 227,
+        "height": 43,
+        "conf": 90
+    },
+    {
+        "text": "Jaya",
+        "left": 2717,
+        "top": 1361,
+        "width": 151,
+        "height": 55,
+        "conf": 95
+    },
+    {
+        "text": "10,",
+        "left": 2918,
+        "top": 1358,
+        "width": 99,
+        "height": 54,
+        "conf": 95
+    },
+    {
+        "text": "Bandar",
+        "left": 1764,
+        "top": 1455,
+        "width": 232,
+        "height": 46,
+        "conf": 95
+    },
+    {
+        "text": "Baru",
+        "left": 2043,
+        "top": 1458,
+        "width": 152,
+        "height": 42,
+        "conf": 93
+    },
+    {
+        "text": "Permas",
+        "left": 2242,
+        "top": 1458,
+        "width": 227,
+        "height": 41,
+        "conf": 91
+    },
+    {
+        "text": "Jaya,",
+        "left": 2519,
+        "top": 1459,
+        "width": 181,
+        "height": 54,
+        "conf": 95
+    },
+    {
+        "text": "81750",
+        "left": 2757,
+        "top": 1455,
+        "width": 186,
+        "height": 45,
+        "conf": 96
+    },
+    {
+        "text": "Masai",
+        "left": 2989,
+        "top": 1455,
+        "width": 193,
+        "height": 45,
+        "conf": 95
+    },
+    {
+        "text": "Johor",
+        "left": 2380,
+        "top": 1552,
+        "width": 190,
+        "height": 46,
+        "conf": 96
+    },
+    {
+        "text": "Order",
+        "left": 1731,
+        "top": 2042,
+        "width": 192,
+        "height": 44,
+        "conf": 94
+    },
+    {
+        "text": ">",
+        "left": 2169,
+        "top": 2055,
+        "width": 9,
+        "height": 27,
+        "conf": 45
+    },
+    {
+        "text": "6224",
+        "left": 2224,
+        "top": 2041,
+        "width": 136,
+        "height": 45,
+        "conf": 92
+    },
+    {
+        "text": "By",
+        "left": 2630,
+        "top": 2045,
+        "width": 72,
+        "height": 53,
+        "conf": 94
+    },
+    {
+        "text": ":WEB",
+        "left": 2841,
+        "top": 2045,
+        "width": 149,
+        "height": 59,
+        "conf": 33
+    },
+    {
+        "text": "30263",
+        "left": 3026,
+        "top": 2041,
+        "width": 191,
+        "height": 63,
+        "conf": 95
+    },
+    {
+        "text": "Order",
+        "left": 1730,
+        "top": 2138,
+        "width": 192,
+        "height": 46,
+        "conf": 96
+    },
+    {
+        "text": "Time",
+        "left": 1970,
+        "top": 2139,
+        "width": 151,
+        "height": 45,
+        "conf": 92
+    },
+    {
+        "text": ":10:15:18",
+        "left": 2168,
+        "top": 2137,
+        "width": 349,
+        "height": 47,
+        "conf": 86
+    },
+    {
+        "text": "Date",
+        "left": 2624,
+        "top": 2140,
+        "width": 154,
+        "height": 44,
+        "conf": 85
+    },
+    {
+        "text": ":17/04/18",
+        "left": 2841,
+        "top": 2135,
+        "width": 338,
+        "height": 56,
+        "conf": 90
+    },
+    {
+        "text": "Name:",
+        "left": 1729,
+        "top": 2289,
+        "width": 183,
+        "height": 43,
+        "conf": 96
+    },
+    {
+        "text": "MS",
+        "left": 1965,
+        "top": 2289,
+        "width": 76,
+        "height": 42,
+        "conf": 95
+    },
+    {
+        "text": "JUNE",
+        "left": 2088,
+        "top": 2288,
+        "width": 152,
+        "height": 42,
+        "conf": 95
+    },
+    {
+        "text": "Loo",
+        "left": 2286,
+        "top": 2288,
+        "width": 112,
+        "height": 42,
+        "conf": 65
+    },
+    {
+        "text": "Pickup",
+        "left": 1739,
+        "top": 2384,
+        "width": 232,
+        "height": 57,
+        "conf": 96
+    },
+    {
+        "text": "Time:",
+        "left": 2018,
+        "top": 2383,
+        "width": 182,
+        "height": 45,
+        "conf": 93
+    },
+    {
+        "text": "22:00:14",
+        "left": 2256,
+        "top": 2382,
+        "width": 307,
+        "height": 45,
+        "conf": 95
+    },
+    {
+        "text": "Qty",
+        "left": 1729,
+        "top": 2555,
+        "width": 112,
+        "height": 55,
+        "conf": 91
+    },
+    {
+        "text": "Menu",
+        "left": 1888,
+        "top": 2555,
+        "width": 155,
+        "height": 42,
+        "conf": 95
+    },
+    {
+        "text": "Desa",
+        "left": 2183,
+        "top": 2556,
+        "width": 155,
+        "height": 41,
+        "conf": 53
+    },
+    {
+        "text": "Coupon",
+        "left": 2434,
+        "top": 2554,
+        "width": 230,
+        "height": 56,
+        "conf": 85
+    },
+    {
+        "text": "Dise",
+        "left": 2770,
+        "top": 2552,
+        "width": 154,
+        "height": 45,
+        "conf": 48
+    },
+    {
+        "text": "Price",
+        "left": 3046,
+        "top": 2551,
+        "width": 192,
+        "height": 45,
+        "conf": 96
+    },
+    {
+        "text": "\u20181",
+        "left": 1744,
+        "top": 2660,
+        "width": 64,
+        "height": 77,
+        "conf": 32
+    },
+    {
+        "text": "o6\u00b0HT",
+        "left": 1861,
+        "top": 2660,
+        "width": 195,
+        "height": 78,
+        "conf": 16
+    },
+    {
+        "text": "(TE)",
+        "left": 2119,
+        "top": 2661,
+        "width": 155,
+        "height": 87,
+        "conf": 48
+    },
+    {
+        "text": "FPP-FREI",
+        "left": 2433,
+        "top": 2696,
+        "width": 294,
+        "height": 42,
+        "conf": 48
+    },
+    {
+        "text": "12.80",
+        "left": 3029,
+        "top": 2692,
+        "width": 185,
+        "height": 44,
+        "conf": 89
+    },
+    {
+        "text": "1",
+        "left": 1763,
+        "top": 2813,
+        "width": 26,
+        "height": 45,
+        "conf": 81
+    },
+    {
+        "text": "6\"HT",
+        "left": 1890,
+        "top": 2813,
+        "width": 151,
+        "height": 46,
+        "conf": 79
+    },
+    {
+        "text": "(BP)",
+        "left": 2148,
+        "top": 2813,
+        "width": 125,
+        "height": 56,
+        "conf": 96
+    },
+    {
+        "text": "WIUELA-}",
+        "left": 2429,
+        "top": 2795,
+        "width": 297,
+        "height": 78,
+        "conf": 40
+    },
+    {
+        "text": "12.80",
+        "left": 3029,
+        "top": 2813,
+        "width": 185,
+        "height": 44,
+        "conf": 93
+    },
+    {
+        "text": "21.70",
+        "left": 2771,
+        "top": 2989,
+        "width": 187,
+        "height": 45,
+        "conf": 96
+    },
+    {
+        "text": "25.60",
+        "left": 3018,
+        "top": 2989,
+        "width": 189,
+        "height": 45,
+        "conf": 96
+    },
+    {
+        "text": "Total",
+        "left": 1726,
+        "top": 3106,
+        "width": 189,
+        "height": 47,
+        "conf": 95
+    },
+    {
+        "text": "Items",
+        "left": 1967,
+        "top": 3110,
+        "width": 185,
+        "height": 43,
+        "conf": 96
+    },
+    {
+        "text": "Sub-Total",
+        "left": 1725,
+        "top": 3224,
+        "width": 348,
+        "height": 47,
+        "conf": 95
+    },
+    {
+        "text": ":",
+        "left": 2588,
+        "top": 3237,
+        "width": 10,
+        "height": 28,
+        "conf": 89
+    },
+    {
+        "text": "25.60",
+        "left": 2868,
+        "top": 3225,
+        "width": 188,
+        "height": 44,
+        "conf": 95
+    },
+    {
+        "text": "Coupon",
+        "left": 1724,
+        "top": 3344,
+        "width": 231,
+        "height": 57,
+        "conf": 94
+    },
+    {
+        "text": "Discount",
+        "left": 1999,
+        "top": 3341,
+        "width": 314,
+        "height": 46,
+        "conf": 95
+    },
+    {
+        "text": ":",
+        "left": 2587,
+        "top": 3354,
+        "width": 11,
+        "height": 28,
+        "conf": 39
+    },
+    {
+        "text": "21.70",
+        "left": 2868,
+        "top": 3341,
+        "width": 187,
+        "height": 45,
+        "conf": 94
+    },
+    {
+        "text": "Grand",
+        "left": 1723,
+        "top": 3459,
+        "width": 195,
+        "height": 44,
+        "conf": 96
+    },
+    {
+        "text": "Total",
+        "left": 1962,
+        "top": 3459,
+        "width": 188,
+        "height": 44,
+        "conf": 79
+    },
+    {
+        "text": ":",
+        "left": 2587,
+        "top": 3472,
+        "width": 9,
+        "height": 27,
+        "conf": 58
+    },
+    {
+        "text": "3.90",
+        "left": 2903,
+        "top": 3460,
+        "width": 150,
+        "height": 43,
+        "conf": 95
+    },
+    {
+        "text": "Payment",
+        "left": 1722,
+        "top": 3578,
+        "width": 271,
+        "height": 55,
+        "conf": 96
+    },
+    {
+        "text": ":",
+        "left": 2585,
+        "top": 3588,
+        "width": 10,
+        "height": 28,
+        "conf": 80
+    },
+    {
+        "text": "5.00",
+        "left": 2905,
+        "top": 3576,
+        "width": 148,
+        "height": 45,
+        "conf": 81
+    },
+    {
+        "text": "Change",
+        "left": 1721,
+        "top": 3692,
+        "width": 231,
+        "height": 59,
+        "conf": 45
+    },
+    {
+        "text": "Bue",
+        "left": 1995,
+        "top": 3695,
+        "width": 116,
+        "height": 43,
+        "conf": 92
+    },
+    {
+        "text": ",",
+        "left": 2432,
+        "top": 3667,
+        "width": 19,
+        "height": 16,
+        "conf": 18
+    },
+    {
+        "text": ":",
+        "left": 2583,
+        "top": 3705,
+        "width": 11,
+        "height": 29,
+        "conf": 53
+    },
+    {
+        "text": "01.10",
+        "left": 2865,
+        "top": 3694,
+        "width": 186,
+        "height": 45,
+        "conf": 96
+    },
+    {
+        "text": "*6%",
+        "left": 1723,
+        "top": 3809,
+        "width": 106,
+        "height": 45,
+        "conf": 91
+    },
+    {
+        "text": "GST",
+        "left": 1878,
+        "top": 3812,
+        "width": 113,
+        "height": 43,
+        "conf": 95
+    },
+    {
+        "text": "Included",
+        "left": 2040,
+        "top": 3809,
+        "width": 311,
+        "height": 46,
+        "conf": 94
+    },
+    {
+        "text": ":",
+        "left": 2583,
+        "top": 3823,
+        "width": 10,
+        "height": 28,
+        "conf": 84
+    },
+    {
+        "text": "0.22",
+        "left": 2903,
+        "top": 3811,
+        "width": 147,
+        "height": 45,
+        "conf": 84
+    },
+    {
+        "text": "SUPPORT",
+        "left": 1870,
+        "top": 4005,
+        "width": 272,
+        "height": 43,
+        "conf": 95
+    },
+    {
+        "text": "OUR",
+        "left": 2188,
+        "top": 4006,
+        "width": 115,
+        "height": 42,
+        "conf": 96
+    },
+    {
+        "text": "SMILE",
+        "left": 2346,
+        "top": 4006,
+        "width": 192,
+        "height": 42,
+        "conf": 96
+    },
+    {
+        "text": "CAMPAIGN",
+        "left": 2584,
+        "top": 4006,
+        "width": 310,
+        "height": 44,
+        "conf": 92
+    },
+    {
+        "text": ":",
+        "left": 2953,
+        "top": 4018,
+        "width": 9,
+        "height": 31,
+        "conf": 91
+    },
+    {
+        "text": "}",
+        "left": 3025,
+        "top": 4004,
+        "width": 14,
+        "height": 56,
+        "conf": 91
+    },
+    {
+        "text": "Did",
+        "left": 2064,
+        "top": 4122,
+        "width": 119,
+        "height": 46,
+        "conf": 95
+    },
+    {
+        "text": "wea",
+        "left": 2224,
+        "top": 4136,
+        "width": 74,
+        "height": 33,
+        "conf": 70
+    },
+    {
+        "text": "smile",
+        "left": 2348,
+        "top": 4123,
+        "width": 188,
+        "height": 46,
+        "conf": 95
+    },
+    {
+        "text": "at",
+        "left": 2583,
+        "top": 4126,
+        "width": 72,
+        "height": 43,
+        "conf": 95
+    },
+    {
+        "text": "you?",
+        "left": 2698,
+        "top": 4128,
+        "width": 151,
+        "height": 54,
+        "conf": 96
+    },
+    {
+        "text": "Let",
+        "left": 2186,
+        "top": 4224,
+        "width": 111,
+        "height": 42,
+        "conf": 95
+    },
+    {
+        "text": "us",
+        "left": 2345,
+        "top": 4234,
+        "width": 68,
+        "height": 33,
+        "conf": 95
+    },
+    {
+        "text": "know",
+        "left": 2463,
+        "top": 4221,
+        "width": 152,
+        "height": 47,
+        "conf": 96
+    },
+    {
+        "text": "at",
+        "left": 2661,
+        "top": 4225,
+        "width": 72,
+        "height": 43,
+        "conf": 95
+    },
+    {
+        "text": "www.dominos.com.my/smile",
+        "left": 1944,
+        "top": 4312,
+        "width": 868,
+        "height": 62,
+        "conf": 83
+    },
+    {
+        "text": "and",
+        "left": 2859,
+        "top": 4317,
+        "width": 99,
+        "height": 45,
+        "conf": 96
+    },
+    {
+        "text": "receive",
+        "left": 1763,
+        "top": 4416,
+        "width": 272,
+        "height": 45,
+        "conf": 95
+    },
+    {
+        "text": "a",
+        "left": 2082,
+        "top": 4430,
+        "width": 33,
+        "height": 31,
+        "conf": 94
+    },
+    {
+        "text": "30%",
+        "left": 2157,
+        "top": 4416,
+        "width": 112,
+        "height": 44,
+        "conf": 94
+    },
+    {
+        "text": "off",
+        "left": 2320,
+        "top": 4416,
+        "width": 112,
+        "height": 46,
+        "conf": 86
+    },
+    {
+        "text": "sides",
+        "left": 2481,
+        "top": 4416,
+        "width": 149,
+        "height": 46,
+        "conf": 58
+    },
+    {
+        "text": "item",
+        "left": 2679,
+        "top": 4417,
+        "width": 151,
+        "height": 46,
+        "conf": 93
+    },
+    {
+        "text": "e-coupon",
+        "left": 2874,
+        "top": 4431,
+        "width": 310,
+        "height": 51,
+        "conf": 88
+    },
+    {
+        "text": "upon",
+        "left": 2024,
+        "top": 4527,
+        "width": 152,
+        "height": 46,
+        "conf": 96
+    },
+    {
+        "text": "survey",
+        "left": 2226,
+        "top": 4527,
+        "width": 227,
+        "height": 46,
+        "conf": 95
+    },
+    {
+        "text": "submission",
+        "left": 2504,
+        "top": 4514,
+        "width": 385,
+        "height": 47,
+        "conf": 95
+    },
+    {
+        "text": "Survey",
+        "left": 1905,
+        "top": 4614,
+        "width": 231,
+        "height": 56,
+        "conf": 95
+    },
+    {
+        "text": "Code:",
+        "left": 2183,
+        "top": 4613,
+        "width": 181,
+        "height": 45,
+        "conf": 92
+    },
+    {
+        "text": "WBD171560041515",
+        "left": 2417,
+        "top": 4611,
+        "width": 586,
+        "height": 48,
+        "conf": 79
+    },
+    {
+        "text": "Thank",
+        "left": 1774,
+        "top": 4759,
+        "width": 191,
+        "height": 46,
+        "conf": 96
+    },
+    {
+        "text": "you",
+        "left": 2009,
+        "top": 4772,
+        "width": 115,
+        "height": 46,
+        "conf": 96
+    },
+    {
+        "text": "for",
+        "left": 2175,
+        "top": 4759,
+        "width": 108,
+        "height": 46,
+        "conf": 96
+    },
+    {
+        "text": "visiting",
+        "left": 2327,
+        "top": 4759,
+        "width": 316,
+        "height": 59,
+        "conf": 96
+    },
+    {
+        "text": "Domino's.",
+        "left": 2683,
+        "top": 4761,
+        "width": 342,
+        "height": 46,
+        "conf": 96
+    },
+    {
+        "text": "Please",
+        "left": 2052,
+        "top": 4850,
+        "width": 230,
+        "height": 47,
+        "conf": 93
+    },
+    {
+        "text": "Come",
+        "left": 2329,
+        "top": 4854,
+        "width": 151,
+        "height": 42,
+        "conf": 95
+    },
+    {
+        "text": "Again!",
+        "left": 2524,
+        "top": 4851,
+        "width": 221,
+        "height": 58,
+        "conf": 95
+    },
+    {
+        "text": "1-300-888-3333",
+        "left": 1915,
+        "top": 4964,
+        "width": 977,
+        "height": 47,
+        "conf": 0
+    },
+    {
+        "text": "www",
+        "left": 2047,
+        "top": 5067,
+        "width": 113,
+        "height": 34,
+        "conf": 73
+    },
+    {
+        "text": ".dominos",
+        "left": 2182,
+        "top": 5055,
+        "width": 293,
+        "height": 47,
+        "conf": 48
+    },
+    {
+        "text": ".com.my",
+        "left": 2499,
+        "top": 5068,
+        "width": 257,
+        "height": 47,
+        "conf": 43
+    },
+    {
+        "text": "We",
+        "left": 1728,
+        "top": 5222,
+        "width": 76,
+        "height": 42,
+        "conf": 96
+    },
+    {
+        "text": "ara",
+        "left": 1851,
+        "top": 5231,
+        "width": 111,
+        "height": 32,
+        "conf": 95
+    },
+    {
+        "text": "compliant",
+        "left": 2010,
+        "top": 5217,
+        "width": 349,
+        "height": 60,
+        "conf": 96
+    },
+    {
+        "text": "to",
+        "left": 2406,
+        "top": 5220,
+        "width": 71,
+        "height": 43,
+        "conf": 95
+    },
+    {
+        "text": "the",
+        "left": 2524,
+        "top": 5217,
+        "width": 112,
+        "height": 47,
+        "conf": 92
+    },
+    {
+        "text": "PDPA",
+        "left": 2683,
+        "top": 5222,
+        "width": 154,
+        "height": 43,
+        "conf": 89
+    },
+    {
+        "text": "2010.",
+        "left": 2881,
+        "top": 5219,
+        "width": 181,
+        "height": 45,
+        "conf": 96
+    },
+    {
+        "text": "Visit",
+        "left": 1807,
+        "top": 5309,
+        "width": 195,
+        "height": 46,
+        "conf": 93
+    },
+    {
+        "text": "www.dominos.com.my/terms",
+        "left": 2045,
+        "top": 5306,
+        "width": 943,
+        "height": 63,
+        "conf": 91
+    },
+    {
+        "text": "to",
+        "left": 1909,
+        "top": 5400,
+        "width": 72,
+        "height": 42,
+        "conf": 94
+    },
+    {
+        "text": "view",
+        "left": 2024,
+        "top": 5397,
+        "width": 156,
+        "height": 46,
+        "conf": 96
+    },
+    {
+        "text": "our",
+        "left": 2226,
+        "top": 5410,
+        "width": 112,
+        "height": 32,
+        "conf": 94
+    },
+    {
+        "text": "Personal",
+        "left": 2384,
+        "top": 5398,
+        "width": 307,
+        "height": 45,
+        "conf": 95
+    },
+    {
+        "text": "Data",
+        "left": 2739,
+        "top": 5401,
+        "width": 154,
+        "height": 43,
+        "conf": 96
+    },
+    {
+        "text": "Protection",
+        "left": 2047,
+        "top": 5472,
+        "width": 389,
+        "height": 46,
+        "conf": 95
+    },
+    {
+        "text": "Policy.",
+        "left": 2483,
+        "top": 5472,
+        "width": 261,
+        "height": 60,
+        "conf": 95
+    },
+    {
+        "text": "Owned",
+        "left": 2245,
+        "top": 5606,
+        "width": 194,
+        "height": 47,
+        "conf": 92
+    },
+    {
+        "text": "by",
+        "left": 2479,
+        "top": 5606,
+        "width": 76,
+        "height": 59,
+        "conf": 96
+    },
+    {
+        "text": "Dommal",
+        "left": 1844,
+        "top": 5697,
+        "width": 231,
+        "height": 46,
+        "conf": 90
+    },
+    {
+        "text": "Food",
+        "left": 2126,
+        "top": 5697,
+        "width": 153,
+        "height": 46,
+        "conf": 95
+    },
+    {
+        "text": "Services",
+        "left": 2323,
+        "top": 5696,
+        "width": 308,
+        "height": 47,
+        "conf": 96
+    },
+    {
+        "text": "Sdn",
+        "left": 2680,
+        "top": 5698,
+        "width": 112,
+        "height": 46,
+        "conf": 96
+    },
+    {
+        "text": "Bhd",
+        "left": 2839,
+        "top": 5698,
+        "width": 115,
+        "height": 45,
+        "conf": 96
+    },
+    {
+        "text": "Co.",
+        "left": 2085,
+        "top": 5790,
+        "width": 102,
+        "height": 39,
+        "conf": 95
+    },
+    {
+        "text": "No.",
+        "left": 2243,
+        "top": 5790,
+        "width": 103,
+        "height": 39,
+        "conf": 93
+    },
+    {
+        "text": "419060-A",
+        "left": 2402,
+        "top": 5786,
+        "width": 314,
+        "height": 44,
+        "conf": 85
+    },
+    {
+        "text": "1",
+        "left": 3149,
+        "top": 5786,
+        "width": 27,
+        "height": 44,
+        "conf": 93
+    }
+]

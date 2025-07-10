@@ -1,0 +1,498 @@
+[
+    {
+        "text": "No.4\u00a2,",
+        "left": 167,
+        "top": 272,
+        "width": 78,
+        "height": 24,
+        "conf": 48
+    },
+    {
+        "text": "Jalan",
+        "left": 255,
+        "top": 274,
+        "width": 61,
+        "height": 18,
+        "conf": 94
+    },
+    {
+        "text": "Gina",
+        "left": 326,
+        "top": 272,
+        "width": 60,
+        "height": 20,
+        "conf": 0
+    },
+    {
+        "text": "LOG,",
+        "left": 426,
+        "top": 269,
+        "width": 69,
+        "height": 23,
+        "conf": 36
+    },
+    {
+        "text": "Susang",
+        "left": 228,
+        "top": 313,
+        "width": 115,
+        "height": 27,
+        "conf": 16
+    },
+    {
+        "text": "Percana,",
+        "left": 346,
+        "top": 315,
+        "width": 89,
+        "height": 19,
+        "conf": 19
+    },
+    {
+        "text": "40150",
+        "left": 134,
+        "top": 353,
+        "width": 74,
+        "height": 21,
+        "conf": 93
+    },
+    {
+        "text": "Shah",
+        "left": 218,
+        "top": 354,
+        "width": 59,
+        "height": 21,
+        "conf": 94
+    },
+    {
+        "text": "Alam,",
+        "left": 285,
+        "top": 354,
+        "width": 68,
+        "height": 23,
+        "conf": 93
+    },
+    {
+        "text": "Selangor",
+        "left": 364,
+        "top": 353,
+        "width": 108,
+        "height": 26,
+        "conf": 84
+    },
+    {
+        "text": "Be.",
+        "left": 480,
+        "top": 350,
+        "width": 49,
+        "height": 21,
+        "conf": 64
+    },
+    {
+        "text": "o",
+        "left": 52,
+        "top": 372,
+        "width": 53,
+        "height": 52,
+        "conf": 20
+    },
+    {
+        "text": "08-7545",
+        "left": 250,
+        "top": 391,
+        "width": 118,
+        "height": 21,
+        "conf": 59
+    },
+    {
+        "text": "455",
+        "left": 359,
+        "top": 390,
+        "width": 51,
+        "height": 10,
+        "conf": 31
+    },
+    {
+        "text": "GST",
+        "left": 174,
+        "top": 428,
+        "width": 54,
+        "height": 20,
+        "conf": 93
+    },
+    {
+        "text": "Rea",
+        "left": 237,
+        "top": 428,
+        "width": 60,
+        "height": 26,
+        "conf": 82
+    },
+    {
+        "text": ":",
+        "left": 292,
+        "top": 424,
+        "width": 10,
+        "height": 35,
+        "conf": 87
+    },
+    {
+        "text": "00",
+        "left": 308,
+        "top": 428,
+        "width": 27,
+        "height": 20,
+        "conf": 96
+    },
+    {
+        "text": "ay",
+        "left": 340,
+        "top": 428,
+        "width": 24,
+        "height": 20,
+        "conf": 31
+    },
+    {
+        "text": "SeASOE",
+        "left": 373,
+        "top": 397,
+        "width": 112,
+        "height": 50,
+        "conf": 0
+    },
+    {
+        "text": "CB",
+        "left": 48,
+        "top": 521,
+        "width": 58,
+        "height": 24,
+        "conf": 36
+    },
+    {
+        "text": ":",
+        "left": 117,
+        "top": 529,
+        "width": 3,
+        "height": 17,
+        "conf": 61
+    },
+    {
+        "text": "45076848326",
+        "left": 133,
+        "top": 523,
+        "width": 184,
+        "height": 24,
+        "conf": 66
+    },
+    {
+        "text": "Gashier",
+        "left": 48,
+        "top": 562,
+        "width": 118,
+        "height": 24,
+        "conf": 39
+    },
+    {
+        "text": ":",
+        "left": 164,
+        "top": 557,
+        "width": 10,
+        "height": 40,
+        "conf": 43
+    },
+    {
+        "text": "be",
+        "left": 183,
+        "top": 564,
+        "width": 31,
+        "height": 22,
+        "conf": 84
+    },
+    {
+        "text": "(}",
+        "left": 224,
+        "top": 564,
+        "width": 18,
+        "height": 29,
+        "conf": 69
+    },
+    {
+        "text": "ay",
+        "left": 44,
+        "top": 602,
+        "width": 50,
+        "height": 33,
+        "conf": 26
+    },
+    {
+        "text": "GodeADase",
+        "left": 126,
+        "top": 603,
+        "width": 159,
+        "height": 63,
+        "conf": 0
+    },
+    {
+        "text": "Pris.",
+        "left": 384,
+        "top": 601,
+        "width": 105,
+        "height": 50,
+        "conf": 14
+    },
+    {
+        "text": ";",
+        "left": 504,
+        "top": 632,
+        "width": 10,
+        "height": 2,
+        "conf": 0
+    },
+    {
+        "text": "NH",
+        "left": 48,
+        "top": 645,
+        "width": 41,
+        "height": 23,
+        "conf": 80
+    },
+    {
+        "text": "DELICADERM",
+        "left": 104,
+        "top": 646,
+        "width": 203,
+        "height": 24,
+        "conf": 8
+    },
+    {
+        "text": "E",
+        "left": 509,
+        "top": 665,
+        "width": 14,
+        "height": 2,
+        "conf": 24
+    },
+    {
+        "text": "1",
+        "left": 70,
+        "top": 692,
+        "width": 9,
+        "height": 24,
+        "conf": 75
+    },
+    {
+        "text": "adenna",
+        "left": 105,
+        "top": 693,
+        "width": 100,
+        "height": 24,
+        "conf": 0
+    },
+    {
+        "text": "\u201c76.0n",
+        "left": 384,
+        "top": 665,
+        "width": 92,
+        "height": 50,
+        "conf": 6
+    },
+    {
+        "text": "74",
+        "left": 550,
+        "top": 691,
+        "width": 29,
+        "height": 22,
+        "conf": 54
+    },
+    {
+        "text": "SR",
+        "left": 595,
+        "top": 690,
+        "width": 31,
+        "height": 17,
+        "conf": 51
+    },
+    {
+        "text": "1i-(BEPROGENT",
+        "left": 50,
+        "top": 743,
+        "width": 241,
+        "height": 30,
+        "conf": 0
+    },
+    {
+        "text": "GR",
+        "left": 302,
+        "top": 743,
+        "width": 67,
+        "height": 23,
+        "conf": 79
+    },
+    {
+        "text": "LS}",
+        "left": 374,
+        "top": 742,
+        "width": 26,
+        "height": 30,
+        "conf": 82
+    },
+    {
+        "text": "306",
+        "left": 413,
+        "top": 742,
+        "width": 55,
+        "height": 23,
+        "conf": 22
+    },
+    {
+        "text": "1",
+        "left": 71,
+        "top": 790,
+        "width": 7,
+        "height": 23,
+        "conf": 73
+    },
+    {
+        "text": "478032",
+        "left": 108,
+        "top": 790,
+        "width": 98,
+        "height": 24,
+        "conf": 73
+    },
+    {
+        "text": "ALPHA",
+        "left": 47,
+        "top": 836,
+        "width": 98,
+        "height": 23,
+        "conf": 91
+    },
+    {
+        "text": "LIFIO",
+        "left": 158,
+        "top": 836,
+        "width": 70,
+        "height": 23,
+        "conf": 56
+    },
+    {
+        "text": "LIFE",
+        "left": 243,
+        "top": 836,
+        "width": 59,
+        "height": 23,
+        "conf": 96
+    },
+    {
+        "text": "LINE",
+        "left": 316,
+        "top": 836,
+        "width": 41,
+        "height": 22,
+        "conf": 96
+    },
+    {
+        "text": "4",
+        "left": 389,
+        "top": 835,
+        "width": 13,
+        "height": 22,
+        "conf": 95
+    },
+    {
+        "text": "3",
+        "left": 70,
+        "top": 935,
+        "width": 15,
+        "height": 23,
+        "conf": 64
+    },
+    {
+        "text": "Type:",
+        "left": 128,
+        "top": 935,
+        "width": 72,
+        "height": 31,
+        "conf": 74
+    },
+    {
+        "text": "3",
+        "left": 244,
+        "top": 935,
+        "width": 13,
+        "height": 24,
+        "conf": 76
+    },
+    {
+        "text": "SubT",
+        "left": 49,
+        "top": 977,
+        "width": 57,
+        "height": 38,
+        "conf": 86
+    },
+    {
+        "text": "otal:",
+        "left": 121,
+        "top": 977,
+        "width": 54,
+        "height": 38,
+        "conf": 67
+    },
+    {
+        "text": "Gash",
+        "left": 49,
+        "top": 1021,
+        "width": 65,
+        "height": 24,
+        "conf": 91
+    },
+    {
+        "text": "Proretion",
+        "left": 129,
+        "top": 1022,
+        "width": 133,
+        "height": 23,
+        "conf": 28
+    },
+    {
+        "text": "34.00",
+        "left": 548,
+        "top": 1019,
+        "width": 72,
+        "height": 23,
+        "conf": 75
+    },
+    {
+        "text": "one",
+        "left": 51,
+        "top": 1062,
+        "width": 124,
+        "height": 51,
+        "conf": 10
+    },
+    {
+        "text": "Adj",
+        "left": 184,
+        "top": 1057,
+        "width": 43,
+        "height": 39,
+        "conf": 81
+    },
+    {
+        "text": ":",
+        "left": 240,
+        "top": 1069,
+        "width": 4,
+        "height": 16,
+        "conf": 81
+    },
+    {
+        "text": "6.09",
+        "left": 566,
+        "top": 1059,
+        "width": 54,
+        "height": 23,
+        "conf": 32
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "text": "ALK",
+        "left": 81,
+        "top": 199,
+        "width": 70,
+        "height": 23,
+        "conf": 93
+    },
+    {
+        "text": "HUST",
+        "left": 181,
+        "top": 200,
+        "width": 95,
+        "height": 21,
+        "conf": 59
+    },
+    {
+        "text": "HARD",
+        "left": 304,
+        "top": 201,
+        "width": 96,
+        "height": 24,
+        "conf": 76
+    },
+    {
+        "text": "ENTERPRISE",
+        "left": 79,
+        "top": 225,
+        "width": 262,
+        "height": 36,
+        "conf": 65
+    },
+    {
+        "text": "LAM)",
+        "left": 156,
+        "top": 250,
+        "width": 91,
+        "height": 37,
+        "conf": 53
+    },
+    {
+        "text": "SuN",
+        "left": 280,
+        "top": 250,
+        "width": 70,
+        "height": 24,
+        "conf": 0
+    },
+    {
+        "text": "S227",
+        "left": 241,
+        "top": 272,
+        "width": 96,
+        "height": 25,
+        "conf": 0
+    },
+    {
+        "text": "NO.",
+        "left": 123,
+        "top": 300,
+        "width": 33,
+        "height": 21,
+        "conf": 65
+    },
+    {
+        "text": "17-0),",
+        "left": 175,
+        "top": 301,
+        "width": 65,
+        "height": 36,
+        "conf": 47
+    },
+    {
+        "text": "ene",
+        "left": 245,
+        "top": 301,
+        "width": 69,
+        "height": 45,
+        "conf": 14
+    },
+    {
+        "text": "BETA",
+        "left": 322,
+        "top": 301,
+        "width": 84,
+        "height": 22,
+        "conf": 46
+    },
+    {
+        "text": "Th",
+        "left": 398,
+        "top": 302,
+        "width": 16,
+        "height": 9,
+        "conf": 48
+    },
+    {
+        "text": "We",
+        "left": 157,
+        "top": 325,
+        "width": 51,
+        "height": 47,
+        "conf": 31
+    },
+    {
+        "text": "134,",
+        "left": 219,
+        "top": 326,
+        "width": 33,
+        "height": 20,
+        "conf": 50
+    },
+    {
+        "text": "TA",
+        "left": 329,
+        "top": 327,
+        "width": 22,
+        "height": 21,
+        "conf": 77
+    },
+    {
+        "text": "AL",
+        "left": 366,
+        "top": 327,
+        "width": 22,
+        "height": 20,
+        "conf": 94
+    },
+    {
+        "text": "he",
+        "left": 403,
+        "top": 327,
+        "width": 21,
+        "height": 26,
+        "conf": 40
+    },
+    {
+        "text": "I",
+        "left": 46,
+        "top": 355,
+        "width": 2,
+        "height": 8,
+        "conf": 17
+    },
+    {
+        "text": "SEKSYEN",
+        "left": 112,
+        "top": 338,
+        "width": 85,
+        "height": 34,
+        "conf": 8
+    },
+    {
+        "text": "ee",
+        "left": 212,
+        "top": 326,
+        "width": 53,
+        "height": 46,
+        "conf": 21
+    },
+    {
+        "text": "een",
+        "left": 269,
+        "top": 325,
+        "width": 65,
+        "height": 48,
+        "conf": 21
+    },
+    {
+        "text": "SHAM",
+        "left": 348,
+        "top": 353,
+        "width": 48,
+        "height": 19,
+        "conf": 52
+    },
+    {
+        "text": "TEL:",
+        "left": 59,
+        "top": 375,
+        "width": 46,
+        "height": 20,
+        "conf": 87
+    },
+    {
+        "text": "12",
+        "left": 121,
+        "top": 374,
+        "width": 39,
+        "height": 27,
+        "conf": 52
+    },
+    {
+        "text": "~",
+        "left": 172,
+        "top": 384,
+        "width": 10,
+        "height": 3,
+        "conf": 69
+    },
+    {
+        "text": "6451763",
+        "left": 197,
+        "top": 363,
+        "width": 86,
+        "height": 39,
+        "conf": 32
+    },
+    {
+        "text": "FAN:",
+        "left": 294,
+        "top": 376,
+        "width": 47,
+        "height": 26,
+        "conf": 73
+    },
+    {
+        "text": "}",
+        "left": 46,
+        "top": 420,
+        "width": 1,
+        "height": 4,
+        "conf": 39
+    },
+    {
+        "text": "GST",
+        "left": 166,
+        "top": 401,
+        "width": 36,
+        "height": 20,
+        "conf": 88
+    },
+    {
+        "text": "NG:",
+        "left": 215,
+        "top": 401,
+        "width": 34,
+        "height": 20,
+        "conf": 88
+    },
+    {
+        "text": "\u201c000378:",
+        "left": 258,
+        "top": 397,
+        "width": 80,
+        "height": 34,
+        "conf": 16
+    },
+    {
+        "text": "SUMPLIFTED",
+        "left": 147,
+        "top": 446,
+        "width": 138,
+        "height": 56,
+        "conf": 0
+    },
+    {
+        "text": "TA",
+        "left": 296,
+        "top": 439,
+        "width": 25,
+        "height": 63,
+        "conf": 55
+    },
+    {
+        "text": "TIVOICE",
+        "left": 341,
+        "top": 442,
+        "width": 84,
+        "height": 48,
+        "conf": 0
+    },
+    {
+        "text": "A",
+        "left": 315,
+        "top": 459,
+        "width": 40,
+        "height": 31,
+        "conf": 32
+    },
+    {
+        "text": "falls",
+        "left": 400,
+        "top": 471,
+        "width": 25,
+        "height": 28,
+        "conf": 38
+    },
+    {
+        "text": "EOTAL.",
+        "left": 53,
+        "top": 937,
+        "width": 134,
+        "height": 34,
+        "conf": 0
+    },
+    {
+        "text": "|",
+        "left": 43,
+        "top": 978,
+        "width": 2,
+        "height": 5,
+        "conf": 44
+    },
+    {
+        "text": "CASH",
+        "left": 68,
+        "top": 974,
+        "width": 95,
+        "height": 21,
+        "conf": 85
+    },
+    {
+        "text": "CHANGE",
+        "left": 67,
+        "top": 999,
+        "width": 157,
+        "height": 38,
+        "conf": 50
+    },
+    {
+        "text": "BT",
+        "left": 145,
+        "top": 1048,
+        "width": 23,
+        "height": 21,
+        "conf": 44
+    },
+    {
+        "text": "@",
+        "left": 182,
+        "top": 1049,
+        "width": 11,
+        "height": 19,
+        "conf": 55
+    },
+    {
+        "text": "a",
+        "left": 209,
+        "top": 1034,
+        "width": 22,
+        "height": 35,
+        "conf": 40
+    },
+    {
+        "text": "INCLUDED",
+        "left": 247,
+        "top": 1049,
+        "width": 95,
+        "height": 21,
+        "conf": 44
+    },
+    {
+        "text": "Ww",
+        "left": 357,
+        "top": 1037,
+        "width": 26,
+        "height": 33,
+        "conf": 27
+    },
+    {
+        "text": "TOTAL",
+        "left": 394,
+        "top": 1050,
+        "width": 61,
+        "height": 21,
+        "conf": 85
+    },
+    {
+        "text": ":",
+        "left": 73,
+        "top": 1415,
+        "width": 2,
+        "height": 2,
+        "conf": 28
+    },
+    {
+        "text": "THANE",
+        "left": 128,
+        "top": 1401,
+        "width": 63,
+        "height": 18,
+        "conf": 84
+    },
+    {
+        "text": "YOU",
+        "left": 204,
+        "top": 1401,
+        "width": 37,
+        "height": 18,
+        "conf": 56
+    },
+    {
+        "text": "PES",
+        "left": 65,
+        "top": 1426,
+        "width": 40,
+        "height": 19,
+        "conf": 66
+    },
+    {
+        "text": "PROVIDE",
+        "left": 117,
+        "top": 1427,
+        "width": 86,
+        "height": 17,
+        "conf": 60
+    },
+    {
+        "text": "ORIG:",
+        "left": 218,
+        "top": 1427,
+        "width": 50,
+        "height": 17,
+        "conf": 67
+    },
+    {
+        "text": "RNETILED",
+        "left": 152,
+        "top": 1499,
+        "width": 101,
+        "height": 21,
+        "conf": 0
+    },
+    {
+        "text": "FOR",
+        "left": 265,
+        "top": 1500,
+        "width": 36,
+        "height": 17,
+        "conf": 67
+    }
+]

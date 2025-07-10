@@ -1,0 +1,282 @@
+[
+    {
+        "text": "RECEIPT",
+        "left": 62,
+        "top": 606,
+        "width": 104,
+        "height": 24,
+        "conf": 96
+    },
+    {
+        "text": "#2",
+        "left": 183,
+        "top": 606,
+        "width": 25,
+        "height": 23,
+        "conf": 27
+    },
+    {
+        "text": "CSOQQ31180",
+        "left": 228,
+        "top": 605,
+        "width": 148,
+        "height": 24,
+        "conf": 40
+    },
+    {
+        "text": "DATE:",
+        "left": 393,
+        "top": 606,
+        "width": 69,
+        "height": 24,
+        "conf": 95
+    },
+    {
+        "text": "04/12/2017",
+        "left": 482,
+        "top": 606,
+        "width": 148,
+        "height": 24,
+        "conf": 91
+    },
+    {
+        "text": "SALESPERSON",
+        "left": 63,
+        "top": 635,
+        "width": 162,
+        "height": 24,
+        "conf": 63
+    },
+    {
+        "text": "2",
+        "left": 245,
+        "top": 643,
+        "width": 7,
+        "height": 17,
+        "conf": 13
+    },
+    {
+        "text": "TIME:",
+        "left": 392,
+        "top": 635,
+        "width": 69,
+        "height": 24,
+        "conf": 74
+    },
+    {
+        "text": "15:14:00",
+        "left": 483,
+        "top": 636,
+        "width": 116,
+        "height": 24,
+        "conf": 0
+    },
+    {
+        "text": "CASHIER",
+        "left": 62,
+        "top": 665,
+        "width": 104,
+        "height": 24,
+        "conf": 95
+    },
+    {
+        "text": "2",
+        "left": 186,
+        "top": 672,
+        "width": 7,
+        "height": 17,
+        "conf": 82
+    },
+    {
+        "text": "USER",
+        "left": 213,
+        "top": 665,
+        "width": 57,
+        "height": 24,
+        "conf": 92
+    },
+    {
+        "text": "ITEM",
+        "left": 64,
+        "top": 725,
+        "width": 58,
+        "height": 25,
+        "conf": 77
+    },
+    {
+        "text": "ary",
+        "left": 333,
+        "top": 725,
+        "width": 42,
+        "height": 24,
+        "conf": 50
+    },
+    {
+        "text": "U/P",
+        "left": 452,
+        "top": 726,
+        "width": 43,
+        "height": 24,
+        "conf": 19
+    },
+    {
+        "text": "ANQUNT",
+        "left": 542,
+        "top": 726,
+        "width": 88,
+        "height": 24,
+        "conf": 24
+    },
+    {
+        "text": "(RH)",
+        "left": 440,
+        "top": 755,
+        "width": 51,
+        "height": 31,
+        "conf": 47
+    },
+    {
+        "text": "(RR)",
+        "left": 574,
+        "top": 756,
+        "width": 53,
+        "height": 31,
+        "conf": 47
+    },
+    {
+        "text": "TOTAL",
+        "left": 63,
+        "top": 907,
+        "width": 73,
+        "height": 24,
+        "conf": 91
+    },
+    {
+        "text": "QUANTITY",
+        "left": 154,
+        "top": 906,
+        "width": 116,
+        "height": 25,
+        "conf": 94
+    },
+    {
+        "text": "2",
+        "left": 438,
+        "top": 907,
+        "width": 12,
+        "height": 24,
+        "conf": 94
+    },
+    {
+        "text": ":",
+        "left": 559,
+        "top": 1130,
+        "width": 5,
+        "height": 7,
+        "conf": 28
+    },
+    {
+        "text": "\u2014",
+        "left": 552,
+        "top": 1143,
+        "width": 21,
+        "height": 7,
+        "conf": 8
+    },
+    {
+        "text": "f",
+        "left": 558,
+        "top": 1151,
+        "width": 11,
+        "height": 16,
+        "conf": 36
+    },
+    {
+        "text": "a",
+        "left": 549,
+        "top": 1174,
+        "width": 25,
+        "height": 24,
+        "conf": 50
+    },
+    {
+        "text": "TAX",
+        "left": 368,
+        "top": 1441,
+        "width": 43,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "TOTAL:",
+        "left": 427,
+        "top": 1441,
+        "width": 85,
+        "height": 25,
+        "conf": 94
+    },
+    {
+        "text": "G.40",
+        "left": 607,
+        "top": 1442,
+        "width": 58,
+        "height": 24,
+        "conf": 0
+    },
+    {
+        "text": "GOONS",
+        "left": 143,
+        "top": 1622,
+        "width": 73,
+        "height": 22,
+        "conf": 60
+    },
+    {
+        "text": "SUD",
+        "left": 233,
+        "top": 1621,
+        "width": 57,
+        "height": 23,
+        "conf": 45
+    },
+    {
+        "text": "ARE",
+        "left": 307,
+        "top": 1621,
+        "width": 43,
+        "height": 23,
+        "conf": 86
+    },
+    {
+        "text": "NOT",
+        "left": 367,
+        "top": 1621,
+        "width": 42,
+        "height": 23,
+        "conf": 96
+    },
+    {
+        "text": "RETURNABLE,",
+        "left": 427,
+        "top": 1622,
+        "width": 159,
+        "height": 29,
+        "conf": 95
+    },
+    {
+        "text": "THANK",
+        "left": 293,
+        "top": 1650,
+        "width": 73,
+        "height": 23,
+        "conf": 54
+    },
+    {
+        "text": "YOU.",
+        "left": 384,
+        "top": 1650,
+        "width": 53,
+        "height": 23,
+        "conf": 83
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "text": "RECEIPT",
+        "left": 46,
+        "top": 514,
+        "width": 101,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "NO.OF",
+        "left": 165,
+        "top": 517,
+        "width": 78,
+        "height": 23,
+        "conf": 0
+    },
+    {
+        "text": ":",
+        "left": 347,
+        "top": 546,
+        "width": 2,
+        "height": 2,
+        "conf": 35
+    },
+    {
+        "text": "Sl",
+        "left": 423,
+        "top": 536,
+        "width": 85,
+        "height": 31,
+        "conf": 24
+    },
+    {
+        "text": "ee",
+        "left": 547,
+        "top": 557,
+        "width": 52,
+        "height": 22,
+        "conf": 10
+    },
+    {
+        "text": "15755",
+        "left": 48,
+        "top": 554,
+        "width": 69,
+        "height": 24,
+        "conf": 77
+    },
+    {
+        "text": ":",
+        "left": 317,
+        "top": 575,
+        "width": 4,
+        "height": 6,
+        "conf": 68
+    },
+    {
+        "text": "2",
+        "left": 426,
+        "top": 579,
+        "width": 3,
+        "height": 1,
+        "conf": 57
+    },
+    {
+        "text": "[HAP",
+        "left": 50,
+        "top": 593,
+        "width": 49,
+        "height": 24,
+        "conf": 18
+    },
+    {
+        "text": "]KISHI",
+        "left": 100,
+        "top": 596,
+        "width": 91,
+        "height": 28,
+        "conf": 18
+    }
+]

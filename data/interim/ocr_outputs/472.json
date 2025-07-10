@@ -1,0 +1,906 @@
+[
+    {
+        "text": "SANYO",
+        "left": 47,
+        "top": 141,
+        "width": 123,
+        "height": 30,
+        "conf": 95
+    },
+    {
+        "text": "STATIONERY",
+        "left": 178,
+        "top": 141,
+        "width": 255,
+        "height": 31,
+        "conf": 95
+    },
+    {
+        "text": "SHOP",
+        "left": 437,
+        "top": 142,
+        "width": 74,
+        "height": 27,
+        "conf": 96
+    },
+    {
+        "text": "NO.",
+        "left": 48,
+        "top": 188,
+        "width": 33,
+        "height": 16,
+        "conf": 86
+    },
+    {
+        "text": "31G&33G,",
+        "left": 91,
+        "top": 188,
+        "width": 101,
+        "height": 20,
+        "conf": 86
+    },
+    {
+        "text": "JALAN",
+        "left": 201,
+        "top": 189,
+        "width": 60,
+        "height": 15,
+        "conf": 93
+    },
+    {
+        "text": "SETIA",
+        "left": 271,
+        "top": 188,
+        "width": 60,
+        "height": 16,
+        "conf": 88
+    },
+    {
+        "text": "INDAH",
+        "left": 339,
+        "top": 189,
+        "width": 66,
+        "height": 16,
+        "conf": 88
+    },
+    {
+        "text": "xX",
+        "left": 415,
+        "top": 192,
+        "width": 10,
+        "height": 12,
+        "conf": 38
+    },
+    {
+        "text": ",Ui3/X",
+        "left": 434,
+        "top": 189,
+        "width": 65,
+        "height": 20,
+        "conf": 50
+    },
+    {
+        "text": "40170",
+        "left": 46,
+        "top": 210,
+        "width": 63,
+        "height": 17,
+        "conf": 93
+    },
+    {
+        "text": "SETIA",
+        "left": 118,
+        "top": 210,
+        "width": 59,
+        "height": 17,
+        "conf": 93
+    },
+    {
+        "text": "ALAM",
+        "left": 185,
+        "top": 202,
+        "width": 54,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "Mobile",
+        "left": 48,
+        "top": 237,
+        "width": 62,
+        "height": 17,
+        "conf": 93
+    },
+    {
+        "text": "/Whatsapps",
+        "left": 117,
+        "top": 238,
+        "width": 132,
+        "height": 21,
+        "conf": 92
+    },
+    {
+        "text": ":",
+        "left": 242,
+        "top": 233,
+        "width": 12,
+        "height": 31,
+        "conf": 92
+    },
+    {
+        "text": "+6012-918",
+        "left": 258,
+        "top": 238,
+        "width": 112,
+        "height": 17,
+        "conf": 91
+    },
+    {
+        "text": "7937",
+        "left": 380,
+        "top": 239,
+        "width": 48,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "Tel:",
+        "left": 46,
+        "top": 268,
+        "width": 36,
+        "height": 17,
+        "conf": 92
+    },
+    {
+        "text": "+603-3362",
+        "left": 92,
+        "top": 268,
+        "width": 111,
+        "height": 18,
+        "conf": 91
+    },
+    {
+        "text": "4137",
+        "left": 212,
+        "top": 268,
+        "width": 49,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "GST",
+        "left": 47,
+        "top": 295,
+        "width": 39,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "ID",
+        "left": 95,
+        "top": 295,
+        "width": 22,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "No:",
+        "left": 127,
+        "top": 296,
+        "width": 31,
+        "height": 16,
+        "conf": 90
+    },
+    {
+        "text": "001531760640",
+        "left": 171,
+        "top": 295,
+        "width": 148,
+        "height": 17,
+        "conf": 91
+    },
+    {
+        "text": "TAX",
+        "left": 413,
+        "top": 307,
+        "width": 54,
+        "height": 22,
+        "conf": 94
+    },
+    {
+        "text": "INVOICE",
+        "left": 478,
+        "top": 308,
+        "width": 112,
+        "height": 21,
+        "conf": 94
+    },
+    {
+        "text": "Owned",
+        "left": 37,
+        "top": 325,
+        "width": 60,
+        "height": 17,
+        "conf": 95
+    },
+    {
+        "text": "By",
+        "left": 104,
+        "top": 326,
+        "width": 32,
+        "height": 20,
+        "conf": 90
+    },
+    {
+        "text": ":",
+        "left": 129,
+        "top": 321,
+        "width": 11,
+        "height": 29,
+        "conf": 76
+    },
+    {
+        "text": "SANYU",
+        "left": 37,
+        "top": 351,
+        "width": 62,
+        "height": 16,
+        "conf": 75
+    },
+    {
+        "text": "SUPPLY",
+        "left": 106,
+        "top": 340,
+        "width": 71,
+        "height": 27,
+        "conf": 96
+    },
+    {
+        "text": "SDN",
+        "left": 184,
+        "top": 352,
+        "width": 37,
+        "height": 15,
+        "conf": 95
+    },
+    {
+        "text": "BHD",
+        "left": 228,
+        "top": 351,
+        "width": 37,
+        "height": 16,
+        "conf": 93
+    },
+    {
+        "text": "(4135772-K)",
+        "left": 272,
+        "top": 351,
+        "width": 101,
+        "height": 21,
+        "conf": 58
+    },
+    {
+        "text": "CASH",
+        "left": 41,
+        "top": 406,
+        "width": 61,
+        "height": 18,
+        "conf": 95
+    },
+    {
+        "text": "SALES",
+        "left": 111,
+        "top": 406,
+        "width": 72,
+        "height": 18,
+        "conf": 96
+    },
+    {
+        "text": "COUNTER",
+        "left": 191,
+        "top": 406,
+        "width": 106,
+        "height": 18,
+        "conf": 95
+    },
+    {
+        "text": "\u201c\"'17'2012-0029\"\u201d\u201d",
+        "left": 27,
+        "top": 458,
+        "width": 162,
+        "height": 27,
+        "conf": 0
+    },
+    {
+        "text": "RESTAURAN-ORDER",
+        "left": 189,
+        "top": 459,
+        "width": 403,
+        "height": 4,
+        "conf": 29
+    },
+    {
+        "text": "CHIT",
+        "left": 492,
+        "top": 454,
+        "width": 49,
+        "height": 42,
+        "conf": 96
+    },
+    {
+        "text": "NCR",
+        "left": 555,
+        "top": 454,
+        "width": 39,
+        "height": 42,
+        "conf": 95
+    },
+    {
+        "text": "3",
+        "left": 82,
+        "top": 525,
+        "width": 9,
+        "height": 17,
+        "conf": 88
+    },
+    {
+        "text": "X",
+        "left": 101,
+        "top": 526,
+        "width": 11,
+        "height": 15,
+        "conf": 88
+    },
+    {
+        "text": "2.9000",
+        "left": 121,
+        "top": 525,
+        "width": 69,
+        "height": 17,
+        "conf": 91
+    },
+    {
+        "text": "Total",
+        "left": 30,
+        "top": 561,
+        "width": 49,
+        "height": 17,
+        "conf": 97
+    },
+    {
+        "text": "Sales",
+        "left": 88,
+        "top": 561,
+        "width": 50,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "Inclusive",
+        "left": 146,
+        "top": 561,
+        "width": 86,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "GA",
+        "left": 248,
+        "top": 557,
+        "width": 29,
+        "height": 31,
+        "conf": 63
+    },
+    {
+        "text": "@6%",
+        "left": 287,
+        "top": 561,
+        "width": 53,
+        "height": 20,
+        "conf": 78
+    },
+    {
+        "text": "Discount",
+        "left": 244,
+        "top": 593,
+        "width": 84,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "Total",
+        "left": 241,
+        "top": 635,
+        "width": 49,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "Round",
+        "left": 244,
+        "top": 666,
+        "width": 61,
+        "height": 18,
+        "conf": 96
+    },
+    {
+        "text": "Adj",
+        "left": 313,
+        "top": 667,
+        "width": 31,
+        "height": 22,
+        "conf": 80
+    },
+    {
+        "text": "0.00",
+        "left": 483,
+        "top": 671,
+        "width": 44,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "Final",
+        "left": 243,
+        "top": 709,
+        "width": 44,
+        "height": 17,
+        "conf": 95
+    },
+    {
+        "text": "Total",
+        "left": 300,
+        "top": 709,
+        "width": 43,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "CASH",
+        "left": 243,
+        "top": 766,
+        "width": 53,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": ")",
+        "left": 526,
+        "top": 779,
+        "width": 2,
+        "height": 3,
+        "conf": 69
+    },
+    {
+        "text": "CHANGE",
+        "left": 243,
+        "top": 796,
+        "width": 83,
+        "height": 32,
+        "conf": 95
+    },
+    {
+        "text": "130",
+        "left": 485,
+        "top": 800,
+        "width": 41,
+        "height": 16,
+        "conf": 58
+    },
+    {
+        "text": "Tax(RM)",
+        "left": 480,
+        "top": 829,
+        "width": 88,
+        "height": 33,
+        "conf": 30
+    },
+    {
+        "text": "SR",
+        "left": 31,
+        "top": 869,
+        "width": 25,
+        "height": 17,
+        "conf": 89
+    },
+    {
+        "text": "@",
+        "left": 65,
+        "top": 870,
+        "width": 18,
+        "height": 19,
+        "conf": 89
+    },
+    {
+        "text": "6%",
+        "left": 92,
+        "top": 870,
+        "width": 33,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "oy",
+        "left": 336,
+        "top": 839,
+        "width": 46,
+        "height": 48,
+        "conf": 0
+    },
+    {
+        "text": "Ci",
+        "left": 521,
+        "top": 872,
+        "width": 44,
+        "height": 16,
+        "conf": 0
+    },
+    {
+        "text": "9.",
+        "left": 553,
+        "top": 868,
+        "width": 15,
+        "height": 29,
+        "conf": 0
+    },
+    {
+        "text": "INV",
+        "left": 29,
+        "top": 939,
+        "width": 42,
+        "height": 27,
+        "conf": 61
+    },
+    {
+        "text": "NO:",
+        "left": 79,
+        "top": 939,
+        "width": 43,
+        "height": 27,
+        "conf": 61
+    },
+    {
+        "text": "C5-SA-0079030",
+        "left": 129,
+        "top": 939,
+        "width": 167,
+        "height": 28,
+        "conf": 63
+    },
+    {
+        "text": "Date:",
+        "left": 316,
+        "top": 939,
+        "width": 79,
+        "height": 28,
+        "conf": 66
+    },
+    {
+        "text": "18/64/2017",
+        "left": 436,
+        "top": 941,
+        "width": 79,
+        "height": 31,
+        "conf": 93
+    },
+    {
+        "text": "Goods",
+        "left": 69,
+        "top": 1094,
+        "width": 70,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "sold",
+        "left": 146,
+        "top": 1095,
+        "width": 44,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "are",
+        "left": 198,
+        "top": 1100,
+        "width": 34,
+        "height": 12,
+        "conf": 96
+    },
+    {
+        "text": "not",
+        "left": 240,
+        "top": 1097,
+        "width": 36,
+        "height": 15,
+        "conf": 93
+    },
+    {
+        "text": "Returnable",
+        "left": 284,
+        "top": 1096,
+        "width": 123,
+        "height": 17,
+        "conf": 90
+    },
+    {
+        "text": "&",
+        "left": 416,
+        "top": 1096,
+        "width": 15,
+        "height": 17,
+        "conf": 92
+    },
+    {
+        "text": "Refundabie",
+        "left": 440,
+        "top": 1096,
+        "width": 128,
+        "height": 17,
+        "conf": 90
+    },
+    {
+        "text": "THANK",
+        "left": 116,
+        "top": 1145,
+        "width": 79,
+        "height": 16,
+        "conf": 95
+    },
+    {
+        "text": "YOU",
+        "left": 202,
+        "top": 1146,
+        "width": 48,
+        "height": 15,
+        "conf": 96
+    },
+    {
+        "text": "FOR",
+        "left": 258,
+        "top": 1146,
+        "width": 43,
+        "height": 15,
+        "conf": 96
+    },
+    {
+        "text": "YOUR",
+        "left": 309,
+        "top": 1146,
+        "width": 64,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "PATRONAGE",
+        "left": 381,
+        "top": 1147,
+        "width": 139,
+        "height": 16,
+        "conf": 95
+    },
+    {
+        "text": "PLEASE",
+        "left": 198,
+        "top": 1176,
+        "width": 80,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "COME",
+        "left": 286,
+        "top": 1176,
+        "width": 67,
+        "height": 17,
+        "conf": 93
+    },
+    {
+        "text": "AGAIN.",
+        "left": 360,
+        "top": 1177,
+        "width": 79,
+        "height": 16,
+        "conf": 94
+    },
+    {
+        "text": "TERIMA",
+        "left": 120,
+        "top": 1229,
+        "width": 88,
+        "height": 16,
+        "conf": 81
+    },
+    {
+        "text": "KASIH",
+        "left": 217,
+        "top": 1229,
+        "width": 63,
+        "height": 17,
+        "conf": 81
+    },
+    {
+        "text": "SILA",
+        "left": 306,
+        "top": 1230,
+        "width": 46,
+        "height": 16,
+        "conf": 91
+    },
+    {
+        "text": "DATANG",
+        "left": 361,
+        "top": 1230,
+        "width": 96,
+        "height": 17,
+        "conf": 90
+    },
+    {
+        "text": "LAGi",
+        "left": 466,
+        "top": 1231,
+        "width": 49,
+        "height": 16,
+        "conf": 81
+    },
+    {
+        "text": "**",
+        "left": 70,
+        "top": 1280,
+        "width": 23,
+        "height": 11,
+        "conf": 76
+    },
+    {
+        "text": "PLEASE",
+        "left": 102,
+        "top": 1282,
+        "width": 79,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "KEEP",
+        "left": 190,
+        "top": 1283,
+        "width": 53,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "THIS",
+        "left": 249,
+        "top": 1283,
+        "width": 50,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "RECEIPT",
+        "left": 307,
+        "top": 1283,
+        "width": 90,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "FOR",
+        "left": 404,
+        "top": 1284,
+        "width": 43,
+        "height": 16,
+        "conf": 95
+    },
+    {
+        "text": "PROVE",
+        "left": 456,
+        "top": 1284,
+        "width": 75,
+        "height": 17,
+        "conf": 95
+    },
+    {
+        "text": "OF",
+        "left": 539,
+        "top": 1285,
+        "width": 28,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "PURCHASE",
+        "left": 53,
+        "top": 1315,
+        "width": 120,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "DATE",
+        "left": 182,
+        "top": 1315,
+        "width": 58,
+        "height": 17,
+        "conf": 95
+    },
+    {
+        "text": "FOR",
+        "left": 248,
+        "top": 1315,
+        "width": 43,
+        "height": 16,
+        "conf": 93
+    },
+    {
+        "text": "I.T",
+        "left": 304,
+        "top": 1315,
+        "width": 24,
+        "height": 17,
+        "conf": 21
+    },
+    {
+        "text": "PRODUCT",
+        "left": 336,
+        "top": 1315,
+        "width": 110,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "WARRANTY",
+        "left": 454,
+        "top": 1317,
+        "width": 130,
+        "height": 16,
+        "conf": 95
+    },
+    {
+        "text": "PURPOSE",
+        "left": 248,
+        "top": 1348,
+        "width": 104,
+        "height": 16,
+        "conf": 92
+    },
+    {
+        "text": "**",
+        "left": 366,
+        "top": 1346,
+        "width": 22,
+        "height": 11,
+        "conf": 91
+    },
+    {
+        "text": "Follow",
+        "left": 92,
+        "top": 1397,
+        "width": 73,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "usin",
+        "left": 173,
+        "top": 1398,
+        "width": 47,
+        "height": 16,
+        "conf": 92
+    },
+    {
+        "text": "Facebook:",
+        "left": 229,
+        "top": 1398,
+        "width": 117,
+        "height": 17,
+        "conf": 93
+    },
+    {
+        "text": "Sanyu.Stationery",
+        "left": 354,
+        "top": 1399,
+        "width": 192,
+        "height": 21,
+        "conf": 92
+    }
+]

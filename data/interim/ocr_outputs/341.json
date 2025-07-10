@@ -1,0 +1,594 @@
+[
+    {
+        "text": "bogoyo",
+        "left": 205,
+        "top": 14,
+        "width": 145,
+        "height": 68,
+        "conf": 7
+    },
+    {
+        "text": "MAKASSAR",
+        "left": 22,
+        "top": 76,
+        "width": 158,
+        "height": 24,
+        "conf": 91
+    },
+    {
+        "text": "FRESH",
+        "left": 199,
+        "top": 77,
+        "width": 100,
+        "height": 26,
+        "conf": 96
+    },
+    {
+        "text": "MARKET",
+        "left": 316,
+        "top": 70,
+        "width": 117,
+        "height": 38,
+        "conf": 92
+    },
+    {
+        "text": "s/B",
+        "left": 455,
+        "top": 87,
+        "width": 56,
+        "height": 26,
+        "conf": 41
+    },
+    {
+        "text": "{CO.NO.",
+        "left": 26,
+        "top": 111,
+        "width": 85,
+        "height": 15,
+        "conf": 40
+    },
+    {
+        "text": "1208604-",
+        "left": 133,
+        "top": 113,
+        "width": 106,
+        "height": 17,
+        "conf": 80
+    },
+    {
+        "text": "-T)",
+        "left": 229,
+        "top": 117,
+        "width": 34,
+        "height": 17,
+        "conf": 90
+    },
+    {
+        "text": "GROUND",
+        "left": 17,
+        "top": 132,
+        "width": 85,
+        "height": 26,
+        "conf": 96
+    },
+    {
+        "text": "FLOOR,",
+        "left": 118,
+        "top": 139,
+        "width": 76,
+        "height": 20,
+        "conf": 93
+    },
+    {
+        "text": "NO.4",
+        "left": 212,
+        "top": 142,
+        "width": 53,
+        "height": 16,
+        "conf": 89
+    },
+    {
+        "text": "\u00a2",
+        "left": 283,
+        "top": 146,
+        "width": 11,
+        "height": 13,
+        "conf": 72
+    },
+    {
+        "text": "6,",
+        "left": 310,
+        "top": 145,
+        "width": 21,
+        "height": 18,
+        "conf": 96
+    },
+    {
+        "text": "JALAN",
+        "left": 20,
+        "top": 158,
+        "width": 72,
+        "height": 26,
+        "conf": 96
+    },
+    {
+        "text": "SS15/4B,",
+        "left": 104,
+        "top": 165,
+        "width": 103,
+        "height": 21,
+        "conf": 0
+    },
+    {
+        "text": "47500",
+        "left": 21,
+        "top": 188,
+        "width": 65,
+        "height": 17,
+        "conf": 93
+    },
+    {
+        "text": "SUBANG",
+        "left": 103,
+        "top": 191,
+        "width": 81,
+        "height": 17,
+        "conf": 91
+    },
+    {
+        "text": "JAYA,",
+        "left": 198,
+        "top": 195,
+        "width": 63,
+        "height": 19,
+        "conf": 92
+    },
+    {
+        "text": "SELANGOR.",
+        "left": 282,
+        "top": 198,
+        "width": 115,
+        "height": 17,
+        "conf": 95
+    },
+    {
+        "text": "TEL:",
+        "left": 19,
+        "top": 215,
+        "width": 48,
+        "height": 16,
+        "conf": 92
+    },
+    {
+        "text": "03-56131328",
+        "left": 75,
+        "top": 216,
+        "width": 147,
+        "height": 19,
+        "conf": 92
+    },
+    {
+        "text": "Outlet",
+        "left": 17,
+        "top": 267,
+        "width": 80,
+        "height": 17,
+        "conf": 93
+    },
+    {
+        "text": ":",
+        "left": 117,
+        "top": 274,
+        "width": 3,
+        "height": 11,
+        "conf": 84
+    },
+    {
+        "text": "PLU",
+        "left": 141,
+        "top": 271,
+        "width": 39,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "Receipt",
+        "left": 16,
+        "top": 293,
+        "width": 94,
+        "height": 21,
+        "conf": 96
+    },
+    {
+        "text": "NO",
+        "left": 125,
+        "top": 297,
+        "width": 27,
+        "height": 15,
+        "conf": 83
+    },
+    {
+        "text": ":",
+        "left": 171,
+        "top": 302,
+        "width": 3,
+        "height": 11,
+        "conf": 83
+    },
+    {
+        "text": "16741",
+        "left": 196,
+        "top": 299,
+        "width": 64,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "[TERMINAL",
+        "left": 19,
+        "top": 320,
+        "width": 118,
+        "height": 18,
+        "conf": 83
+    },
+    {
+        "text": ":002]",
+        "left": 156,
+        "top": 324,
+        "width": 59,
+        "height": 19,
+        "conf": 89
+    },
+    {
+        "text": "(CASHIER",
+        "left": 376,
+        "top": 331,
+        "width": 105,
+        "height": 18,
+        "conf": 92
+    },
+    {
+        "text": ":sv2]",
+        "left": 500,
+        "top": 335,
+        "width": 58,
+        "height": 19,
+        "conf": 50
+    },
+    {
+        "text": "05-Aug-2017",
+        "left": 16,
+        "top": 341,
+        "width": 147,
+        "height": 32,
+        "conf": 93
+    },
+    {
+        "text": "02:11:23",
+        "left": 414,
+        "top": 358,
+        "width": 106,
+        "height": 18,
+        "conf": 95
+    },
+    {
+        "text": "PM",
+        "left": 536,
+        "top": 363,
+        "width": 27,
+        "height": 15,
+        "conf": 85
+    },
+    {
+        "text": "FRUITS",
+        "left": 27,
+        "top": 399,
+        "width": 80,
+        "height": 17,
+        "conf": 92
+    },
+    {
+        "text": "@24.00",
+        "left": 137,
+        "top": 402,
+        "width": 79,
+        "height": 17,
+        "conf": 90
+    },
+    {
+        "text": "40158",
+        "left": 27,
+        "top": 425,
+        "width": 65,
+        "height": 17,
+        "conf": 94
+    },
+    {
+        "text": "*1",
+        "left": 274,
+        "top": 434,
+        "width": 23,
+        "height": 14,
+        "conf": 77
+    },
+    {
+        "text": "24.00",
+        "left": 450,
+        "top": 438,
+        "width": 67,
+        "height": 17,
+        "conf": 95
+    },
+    {
+        "text": "FRUITS",
+        "left": 25,
+        "top": 451,
+        "width": 80,
+        "height": 17,
+        "conf": 95
+    },
+    {
+        "text": "616.00",
+        "left": 136,
+        "top": 456,
+        "width": 78,
+        "height": 15,
+        "conf": 58
+    },
+    {
+        "text": "40158",
+        "left": 25,
+        "top": 477,
+        "width": 66,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "*1",
+        "left": 272,
+        "top": 486,
+        "width": 23,
+        "height": 15,
+        "conf": 67
+    },
+    {
+        "text": "16.00",
+        "left": 451,
+        "top": 491,
+        "width": 65,
+        "height": 17,
+        "conf": 95
+    },
+    {
+        "text": "Rounding",
+        "left": 7,
+        "top": 605,
+        "width": 108,
+        "height": 30,
+        "conf": 96
+    },
+    {
+        "text": "Adj.",
+        "left": 129,
+        "top": 614,
+        "width": 50,
+        "height": 19,
+        "conf": 92
+    },
+    {
+        "text": "Tota?",
+        "left": 7,
+        "top": 636,
+        "width": 61,
+        "height": 16,
+        "conf": 58
+    },
+    {
+        "text": "Payment",
+        "left": 6,
+        "top": 663,
+        "width": 93,
+        "height": 20,
+        "conf": 96
+    },
+    {
+        "text": "Type",
+        "left": 116,
+        "top": 666,
+        "width": 52,
+        "height": 20,
+        "conf": 96
+    },
+    {
+        "text": "Received",
+        "left": 4,
+        "top": 689,
+        "width": 109,
+        "height": 19,
+        "conf": 96
+    },
+    {
+        "text": "Cash",
+        "left": 129,
+        "top": 694,
+        "width": 52,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "Change",
+        "left": 4,
+        "top": 716,
+        "width": 80,
+        "height": 21,
+        "conf": 96
+    },
+    {
+        "text": "Thank",
+        "left": 72,
+        "top": 755,
+        "width": 76,
+        "height": 34,
+        "conf": 78
+    },
+    {
+        "text": "You",
+        "left": 154,
+        "top": 775,
+        "width": 39,
+        "height": 16,
+        "conf": 91
+    },
+    {
+        "text": "!",
+        "left": 213,
+        "top": 778,
+        "width": 3,
+        "height": 14,
+        "conf": 91
+    },
+    {
+        "text": "Pls",
+        "left": 237,
+        "top": 778,
+        "width": 38,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "Come",
+        "left": 292,
+        "top": 781,
+        "width": 52,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "Again",
+        "left": 356,
+        "top": 779,
+        "width": 71,
+        "height": 28,
+        "conf": 95
+    },
+    {
+        "text": "Goods",
+        "left": 58,
+        "top": 799,
+        "width": 65,
+        "height": 16,
+        "conf": 95
+    },
+    {
+        "text": "Sold",
+        "left": 141,
+        "top": 802,
+        "width": 52,
+        "height": 16,
+        "conf": 95
+    },
+    {
+        "text": "Are",
+        "left": 208,
+        "top": 804,
+        "width": 40,
+        "height": 16,
+        "conf": 95
+    },
+    {
+        "text": "Not",
+        "left": 264,
+        "top": 806,
+        "width": 39,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "Returnable",
+        "left": 318,
+        "top": 808,
+        "width": 136,
+        "height": 18,
+        "conf": 59
+    },
+    {
+        "text": "!",
+        "left": 475,
+        "top": 812,
+        "width": 3,
+        "height": 10,
+        "conf": 90
+    },
+    {
+        "text": "PLS",
+        "left": 8,
+        "top": 824,
+        "width": 32,
+        "height": 15,
+        "conf": 72
+    },
+    {
+        "text": "VERIFY",
+        "left": 56,
+        "top": 826,
+        "width": 83,
+        "height": 17,
+        "conf": 93
+    },
+    {
+        "text": "YOUR",
+        "left": 155,
+        "top": 830,
+        "width": 53,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "LL,",
+        "left": 250,
+        "top": 833,
+        "width": 26,
+        "height": 15,
+        "conf": 61
+    },
+    {
+        "text": "BEFORE",
+        "left": 291,
+        "top": 834,
+        "width": 80,
+        "height": 17,
+        "conf": 61
+    },
+    {
+        "text": "LEAVING",
+        "left": 387,
+        "top": 837,
+        "width": 96,
+        "height": 17,
+        "conf": 95
+    },
+    {
+        "text": "THE",
+        "left": 498,
+        "top": 840,
+        "width": 39,
+        "height": 15,
+        "conf": 95
+    },
+    {
+        "text": "'",
+        "left": 0,
+        "top": 816,
+        "width": 22,
+        "height": 102,
+        "conf": 58
+    },
+    {
+        "text": "UREBRG,~",
+        "left": 241,
+        "top": 843,
+        "width": 94,
+        "height": 46,
+        "conf": 0
+    }
+]

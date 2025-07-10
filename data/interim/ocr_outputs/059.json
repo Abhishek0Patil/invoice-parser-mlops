@@ -1,0 +1,370 @@
+[
+    {
+        "text": "Triple",
+        "left": 401,
+        "top": 447,
+        "width": 42,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "Six",
+        "left": 450,
+        "top": 447,
+        "width": 23,
+        "height": 13,
+        "conf": 96
+    },
+    {
+        "text": "Point",
+        "left": 480,
+        "top": 447,
+        "width": 37,
+        "height": 13,
+        "conf": 96
+    },
+    {
+        "text": "Enterprise",
+        "left": 526,
+        "top": 447,
+        "width": 79,
+        "height": 17,
+        "conf": 96
+    },
+    {
+        "text": "666",
+        "left": 611,
+        "top": 447,
+        "width": 29,
+        "height": 13,
+        "conf": 95
+    },
+    {
+        "text": "No",
+        "left": 344,
+        "top": 468,
+        "width": 17,
+        "height": 11,
+        "conf": 96
+    },
+    {
+        "text": "148",
+        "left": 368,
+        "top": 460,
+        "width": 18,
+        "height": 29,
+        "conf": 71
+    },
+    {
+        "text": "18",
+        "left": 393,
+        "top": 468,
+        "width": 15,
+        "height": 11,
+        "conf": 69
+    },
+    {
+        "text": "Jalan",
+        "left": 421,
+        "top": 468,
+        "width": 25,
+        "height": 11,
+        "conf": 93
+    },
+    {
+        "text": "Permas",
+        "left": 452,
+        "top": 468,
+        "width": 40,
+        "height": 11,
+        "conf": 92
+    },
+    {
+        "text": "4/3",
+        "left": 505,
+        "top": 468,
+        "width": 19,
+        "height": 11,
+        "conf": 85
+    },
+    {
+        "text": "Bandar",
+        "left": 530,
+        "top": 468,
+        "width": 46,
+        "height": 11,
+        "conf": 95
+    },
+    {
+        "text": "Baru",
+        "left": 581,
+        "top": 468,
+        "width": 28,
+        "height": 12,
+        "conf": 91
+    },
+    {
+        "text": "Permas",
+        "left": 615,
+        "top": 468,
+        "width": 48,
+        "height": 12,
+        "conf": 91
+    },
+    {
+        "text": "Jay",
+        "left": 668,
+        "top": 468,
+        "width": 21,
+        "height": 15,
+        "conf": 96
+    },
+    {
+        "text": "Tel:",
+        "left": 462,
+        "top": 486,
+        "width": 18,
+        "height": 11,
+        "conf": 91
+    },
+    {
+        "text": "016-7574666",
+        "left": 493,
+        "top": 486,
+        "width": 87,
+        "height": 12,
+        "conf": 73
+    },
+    {
+        "text": "Receipt",
+        "left": 448,
+        "top": 504,
+        "width": 41,
+        "height": 13,
+        "conf": 49
+    },
+    {
+        "text": "no:",
+        "left": 494,
+        "top": 507,
+        "width": 12,
+        "height": 8,
+        "conf": 91
+    },
+    {
+        "text": "REC-0045016",
+        "left": 515,
+        "top": 504,
+        "width": 78,
+        "height": 10,
+        "conf": 46
+    },
+    {
+        "text": "Date:",
+        "left": 421,
+        "top": 520,
+        "width": 29,
+        "height": 10,
+        "conf": 96
+    },
+    {
+        "text": "26-03-2018",
+        "left": 459,
+        "top": 519,
+        "width": 75,
+        "height": 12,
+        "conf": 83
+    },
+    {
+        "text": "09:42:19",
+        "left": 539,
+        "top": 519,
+        "width": 56,
+        "height": 12,
+        "conf": 88
+    },
+    {
+        "text": "AM",
+        "left": 600,
+        "top": 520,
+        "width": 20,
+        "height": 11,
+        "conf": 96
+    },
+    {
+        "text": "Payment",
+        "left": 455,
+        "top": 538,
+        "width": 54,
+        "height": 14,
+        "conf": 94
+    },
+    {
+        "text": "Type:",
+        "left": 514,
+        "top": 538,
+        "width": 31,
+        "height": 15,
+        "conf": 94
+    },
+    {
+        "text": "Cash",
+        "left": 573,
+        "top": 540,
+        "width": 14,
+        "height": 9,
+        "conf": 96
+    },
+    {
+        "text": "Receipt",
+        "left": 486,
+        "top": 558,
+        "width": 68,
+        "height": 21,
+        "conf": 96
+    },
+    {
+        "text": "ary",
+        "left": 329,
+        "top": 599,
+        "width": 25,
+        "height": 10,
+        "conf": 67
+    },
+    {
+        "text": "ITEM",
+        "left": 363,
+        "top": 599,
+        "width": 28,
+        "height": 9,
+        "conf": 68
+    },
+    {
+        "text": "2x",
+        "left": 330,
+        "top": 636,
+        "width": 17,
+        "height": 13,
+        "conf": 82
+    },
+    {
+        "text": "Hey",
+        "left": 364,
+        "top": 635,
+        "width": 29,
+        "height": 16,
+        "conf": 85
+    },
+    {
+        "text": "Song",
+        "left": 399,
+        "top": 628,
+        "width": 49,
+        "height": 23,
+        "conf": 73
+    },
+    {
+        "text": "Camellia",
+        "left": 363,
+        "top": 656,
+        "width": 67,
+        "height": 13,
+        "conf": 96
+    },
+    {
+        "text": "green",
+        "left": 436,
+        "top": 659,
+        "width": 44,
+        "height": 14,
+        "conf": 96
+    },
+    {
+        "text": "tea",
+        "left": 363,
+        "top": 676,
+        "width": 23,
+        "height": 13,
+        "conf": 96
+    },
+    {
+        "text": "580ml",
+        "left": 392,
+        "top": 676,
+        "width": 48,
+        "height": 13,
+        "conf": 51
+    },
+    {
+        "text": "{Dise:",
+        "left": 363,
+        "top": 699,
+        "width": 38,
+        "height": 17,
+        "conf": 27
+    },
+    {
+        "text": "1.0000)",
+        "left": 414,
+        "top": 699,
+        "width": 59,
+        "height": 17,
+        "conf": 93
+    },
+    {
+        "text": "<n",
+        "left": 352,
+        "top": 726,
+        "width": 276,
+        "height": 25,
+        "conf": 19
+    },
+    {
+        "text": "Total",
+        "left": 362,
+        "top": 756,
+        "width": 37,
+        "height": 14,
+        "conf": 96
+    },
+    {
+        "text": "Amount",
+        "left": 405,
+        "top": 756,
+        "width": 61,
+        "height": 13,
+        "conf": 54
+    },
+    {
+        "text": "7.60",
+        "left": 589,
+        "top": 756,
+        "width": 34,
+        "height": 14,
+        "conf": 93
+    },
+    {
+        "text": "Tendered",
+        "left": 362,
+        "top": 778,
+        "width": 73,
+        "height": 13,
+        "conf": 82
+    },
+    {
+        "text": "10.00",
+        "left": 580,
+        "top": 778,
+        "width": 43,
+        "height": 13,
+        "conf": 92
+    },
+    {
+        "text": "Change",
+        "left": 362,
+        "top": 800,
+        "width": 61,
+        "height": 17,
+        "conf": 93
+    }
+]

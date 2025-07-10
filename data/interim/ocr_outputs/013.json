@@ -1,0 +1,906 @@
+[
+    {
+        "text": "RESTORAN",
+        "left": 76,
+        "top": 33,
+        "width": 223,
+        "height": 46,
+        "conf": 92
+    },
+    {
+        "text": "HASSANBISTRO",
+        "left": 330,
+        "top": 29,
+        "width": 346,
+        "height": 49,
+        "conf": 91
+    },
+    {
+        "text": "NO.2-1-1",
+        "left": 169,
+        "top": 86,
+        "width": 107,
+        "height": 24,
+        "conf": 85
+    },
+    {
+        "text": "JALAN",
+        "left": 297,
+        "top": 86,
+        "width": 69,
+        "height": 23,
+        "conf": 83
+    },
+    {
+        "text": "\u201cFITA",
+        "left": 392,
+        "top": 85,
+        "width": 61,
+        "height": 24,
+        "conf": 49
+    },
+    {
+        "text": "PRIMA",
+        "left": 469,
+        "top": 85,
+        "width": 72,
+        "height": 25,
+        "conf": 91
+    },
+    {
+        "text": "Q",
+        "left": 557,
+        "top": 85,
+        "width": 12,
+        "height": 22,
+        "conf": 86
+    },
+    {
+        "text": "U",
+        "left": 206,
+        "top": 122,
+        "width": 13,
+        "height": 23,
+        "conf": 88
+    },
+    {
+        "text": "13/0",
+        "left": 239,
+        "top": 121,
+        "width": 50,
+        "height": 24,
+        "conf": 88
+    },
+    {
+        "text": "SETI,",
+        "left": 306,
+        "top": 121,
+        "width": 70,
+        "height": 24,
+        "conf": 40
+    },
+    {
+        "text": "Al",
+        "left": 393,
+        "top": 123,
+        "width": 17,
+        "height": 21,
+        "conf": 56
+    },
+    {
+        "text": "AM",
+        "left": 422,
+        "top": 123,
+        "width": 26,
+        "height": 22,
+        "conf": 56
+    },
+    {
+        "text": "40170",
+        "left": 465,
+        "top": 121,
+        "width": 71,
+        "height": 24,
+        "conf": 93
+    },
+    {
+        "text": "SHAW",
+        "left": 311,
+        "top": 156,
+        "width": 56,
+        "height": 25,
+        "conf": 60
+    },
+    {
+        "text": "ALAM",
+        "left": 384,
+        "top": 158,
+        "width": 55,
+        "height": 22,
+        "conf": 61
+    },
+    {
+        "text": "SELanbur",
+        "left": 311,
+        "top": 191,
+        "width": 114,
+        "height": 25,
+        "conf": 76
+    },
+    {
+        "text": "URREKAKAAKA",
+        "left": 78,
+        "top": 226,
+        "width": 148,
+        "height": 30,
+        "conf": 0
+    },
+    {
+        "text": "RAKE",
+        "left": 234,
+        "top": 230,
+        "width": 54,
+        "height": 15,
+        "conf": 0
+    },
+    {
+        "text": "KAA",
+        "left": 296,
+        "top": 231,
+        "width": 53,
+        "height": 15,
+        "conf": 0
+    },
+    {
+        "text": "\u00a5",
+        "left": 371,
+        "top": 233,
+        "width": 6,
+        "height": 12,
+        "conf": 43
+    },
+    {
+        "text": "14",
+        "left": 389,
+        "top": 234,
+        "width": 23,
+        "height": 11,
+        "conf": 11
+    },
+    {
+        "text": "KKKAKKAMEXARESEKAKE",
+        "left": 417,
+        "top": 230,
+        "width": 263,
+        "height": 20,
+        "conf": 0
+    },
+    {
+        "text": "TAX",
+        "left": 294,
+        "top": 262,
+        "width": 44,
+        "height": 23,
+        "conf": 91
+    },
+    {
+        "text": "INVOICE",
+        "left": 357,
+        "top": 262,
+        "width": 106,
+        "height": 24,
+        "conf": 82
+    },
+    {
+        "text": "HXKLAKAKEKAAAKAAAA",
+        "left": 78,
+        "top": 301,
+        "width": 604,
+        "height": 22,
+        "conf": 0
+    },
+    {
+        "text": "LARA",
+        "left": 344,
+        "top": 297,
+        "width": 53,
+        "height": 30,
+        "conf": 0
+    },
+    {
+        "text": "KAKKAAA",
+        "left": 404,
+        "top": 297,
+        "width": 88,
+        "height": 30,
+        "conf": 0
+    },
+    {
+        "text": "KARA",
+        "left": 499,
+        "top": 297,
+        "width": 55,
+        "height": 30,
+        "conf": 0
+    },
+    {
+        "text": "CKAKEKXE",
+        "left": 564,
+        "top": 297,
+        "width": 120,
+        "height": 30,
+        "conf": 21
+    },
+    {
+        "text": "TERMINAL",
+        "left": 78,
+        "top": 332,
+        "width": 119,
+        "height": 25,
+        "conf": 88
+    },
+    {
+        "text": ":",
+        "left": 218,
+        "top": 340,
+        "width": 6,
+        "height": 16,
+        "conf": 73
+    },
+    {
+        "text": "Cl",
+        "left": 245,
+        "top": 332,
+        "width": 24,
+        "height": 23,
+        "conf": 79
+    },
+    {
+        "text": "CASHIER",
+        "left": 78,
+        "top": 368,
+        "width": 104,
+        "height": 25,
+        "conf": 31
+    },
+    {
+        "text": ":",
+        "left": 218,
+        "top": 375,
+        "width": 6,
+        "height": 16,
+        "conf": 84
+    },
+    {
+        "text": "HASSAN",
+        "left": 245,
+        "top": 367,
+        "width": 91,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "BILL",
+        "left": 78,
+        "top": 404,
+        "width": 58,
+        "height": 24,
+        "conf": 95
+    },
+    {
+        "text": "NO",
+        "left": 154,
+        "top": 403,
+        "width": 29,
+        "height": 24,
+        "conf": 61
+    },
+    {
+        "text": ":",
+        "left": 219,
+        "top": 411,
+        "width": 5,
+        "height": 15,
+        "conf": 48
+    },
+    {
+        "text": "C1-0170778",
+        "left": 245,
+        "top": 403,
+        "width": 154,
+        "height": 25,
+        "conf": 47
+    },
+    {
+        "text": "DATE",
+        "left": 78,
+        "top": 438,
+        "width": 59,
+        "height": 26,
+        "conf": 75
+    },
+    {
+        "text": ":",
+        "left": 219,
+        "top": 445,
+        "width": 6,
+        "height": 16,
+        "conf": 71
+    },
+    {
+        "text": "12/28/2017",
+        "left": 248,
+        "top": 437,
+        "width": 151,
+        "height": 27,
+        "conf": 94
+    },
+    {
+        "text": "10:17:32",
+        "left": 421,
+        "top": 440,
+        "width": 120,
+        "height": 27,
+        "conf": 92
+    },
+    {
+        "text": "PM",
+        "left": 559,
+        "top": 444,
+        "width": 30,
+        "height": 27,
+        "conf": 92
+    },
+    {
+        "text": "TOKEN",
+        "left": 79,
+        "top": 473,
+        "width": 74,
+        "height": 26,
+        "conf": 96
+    },
+    {
+        "text": ";",
+        "left": 220,
+        "top": 480,
+        "width": 5,
+        "height": 17,
+        "conf": 33
+    },
+    {
+        "text": "CT",
+        "left": 246,
+        "top": 472,
+        "width": 40,
+        "height": 26,
+        "conf": 6
+    },
+    {
+        "text": "TABLE",
+        "left": 79,
+        "top": 508,
+        "width": 73,
+        "height": 33,
+        "conf": 96
+    },
+    {
+        "text": ":",
+        "left": 220,
+        "top": 515,
+        "width": 6,
+        "height": 17,
+        "conf": 70
+    },
+    {
+        "text": "CT",
+        "left": 246,
+        "top": 508,
+        "width": 41,
+        "height": 24,
+        "conf": 0
+    },
+    {
+        "text": "Priewetie",
+        "left": 79,
+        "top": 565,
+        "width": 167,
+        "height": 38,
+        "conf": 2
+    },
+    {
+        "text": "(Oty",
+        "left": 230,
+        "top": 561,
+        "width": 59,
+        "height": 62,
+        "conf": 0
+    },
+    {
+        "text": "U.poicele",
+        "left": 292,
+        "top": 567,
+        "width": 213,
+        "height": 42,
+        "conf": 0
+    },
+    {
+        "text": "isis",
+        "left": 457,
+        "top": 561,
+        "width": 58,
+        "height": 62,
+        "conf": 6
+    },
+    {
+        "text": "saleratajm",
+        "left": 523,
+        "top": 573,
+        "width": 157,
+        "height": 46,
+        "conf": 0
+    },
+    {
+        "text": "MAKANAN?",
+        "left": 80,
+        "top": 636,
+        "width": 96,
+        "height": 38,
+        "conf": 0
+    },
+    {
+        "text": "oh",
+        "left": 204,
+        "top": 636,
+        "width": 23,
+        "height": 4,
+        "conf": 21
+    },
+    {
+        "text": "|",
+        "left": 243,
+        "top": 637,
+        "width": 4,
+        "height": 3,
+        "conf": 22
+    },
+    {
+        "text": "2s",
+        "left": 270,
+        "top": 637,
+        "width": 70,
+        "height": 4,
+        "conf": 29
+    },
+    {
+        "text": "Os",
+        "left": 367,
+        "top": 638,
+        "width": 95,
+        "height": 7,
+        "conf": 29
+    },
+    {
+        "text": "eerie",
+        "left": 465,
+        "top": 643,
+        "width": 215,
+        "height": 17,
+        "conf": 0
+    },
+    {
+        "text": "100",
+        "left": 267,
+        "top": 684,
+        "width": 138,
+        "height": 27,
+        "conf": 21
+    },
+    {
+        "text": "ty",
+        "left": 494,
+        "top": 692,
+        "width": 13,
+        "height": 23,
+        "conf": 29
+    },
+    {
+        "text": "is",
+        "left": 569,
+        "top": 696,
+        "width": 25,
+        "height": 26,
+        "conf": 34
+    },
+    {
+        "text": "oni",
+        "left": 653,
+        "top": 703,
+        "width": 27,
+        "height": 28,
+        "conf": 34
+    },
+    {
+        "text": "Totalittems",
+        "left": 83,
+        "top": 741,
+        "width": 351,
+        "height": 38,
+        "conf": 25
+    },
+    {
+        "text": "=",
+        "left": 260,
+        "top": 736,
+        "width": 31,
+        "height": 59,
+        "conf": 53
+    },
+    {
+        "text": "(00",
+        "left": 319,
+        "top": 741,
+        "width": 90,
+        "height": 38,
+        "conf": 57
+    },
+    {
+        "text": "9)",
+        "left": 453,
+        "top": 748,
+        "width": 37,
+        "height": 5,
+        "conf": 23
+    },
+    {
+        "text": "pees",
+        "left": 518,
+        "top": 752,
+        "width": 162,
+        "height": 18,
+        "conf": 3
+    },
+    {
+        "text": "otal",
+        "left": 85,
+        "top": 789,
+        "width": 60,
+        "height": 26,
+        "conf": 4
+    },
+    {
+        "text": "Oty",
+        "left": 165,
+        "top": 790,
+        "width": 41,
+        "height": 25,
+        "conf": 50
+    },
+    {
+        "text": "=",
+        "left": 265,
+        "top": 797,
+        "width": 12,
+        "height": 9,
+        "conf": 74
+    },
+    {
+        "text": "1.00",
+        "left": 325,
+        "top": 791,
+        "width": 53,
+        "height": 25,
+        "conf": 87
+    },
+    {
+        "text": "Spee",
+        "left": 82,
+        "top": 848,
+        "width": 109,
+        "height": 5,
+        "conf": 0
+    },
+    {
+        "text": "ht",
+        "left": 195,
+        "top": 848,
+        "width": 178,
+        "height": 38,
+        "conf": 12
+    },
+    {
+        "text": "eee",
+        "left": 515,
+        "top": 860,
+        "width": 167,
+        "height": 19,
+        "conf": 24
+    },
+    {
+        "text": "Discount",
+        "left": 213,
+        "top": 896,
+        "width": 112,
+        "height": 26,
+        "conf": 91
+    },
+    {
+        "text": "a",
+        "left": 515,
+        "top": 872,
+        "width": 28,
+        "height": 61,
+        "conf": 42
+    },
+    {
+        "text": "aw",
+        "left": 620,
+        "top": 882,
+        "width": 68,
+        "height": 68,
+        "conf": 37
+    },
+    {
+        "text": "Total",
+        "left": 205,
+        "top": 968,
+        "width": 71,
+        "height": 26,
+        "conf": 91
+    },
+    {
+        "text": "Excl.8%",
+        "left": 297,
+        "top": 958,
+        "width": 391,
+        "height": 42,
+        "conf": 2
+    },
+    {
+        "text": "GSI",
+        "left": 422,
+        "top": 954,
+        "width": 55,
+        "height": 59,
+        "conf": 37
+    },
+    {
+        "text": "Ry",
+        "left": 500,
+        "top": 954,
+        "width": 51,
+        "height": 59,
+        "conf": 47
+    },
+    {
+        "text": "yea",
+        "left": 599,
+        "top": 954,
+        "width": 94,
+        "height": 59,
+        "conf": 30
+    },
+    {
+        "text": "GST",
+        "left": 205,
+        "top": 1004,
+        "width": 45,
+        "height": 25,
+        "conf": 95
+    },
+    {
+        "text": "6%",
+        "left": 267,
+        "top": 1004,
+        "width": 28,
+        "height": 24,
+        "conf": 45
+    },
+    {
+        "text": "R130",
+        "left": 501,
+        "top": 979,
+        "width": 187,
+        "height": 63,
+        "conf": 9
+    },
+    {
+        "text": "Total",
+        "left": 206,
+        "top": 1039,
+        "width": 71,
+        "height": 27,
+        "conf": 90
+    },
+    {
+        "text": "Incl.6%",
+        "left": 299,
+        "top": 1040,
+        "width": 106,
+        "height": 27,
+        "conf": 40
+    },
+    {
+        "text": "ast",
+        "left": 423,
+        "top": 1045,
+        "width": 45,
+        "height": 27,
+        "conf": 20
+    },
+    {
+        "text": "Ry",
+        "left": 502,
+        "top": 1051,
+        "width": 30,
+        "height": 27,
+        "conf": 66
+    },
+    {
+        "text": "gra",
+        "left": 615,
+        "top": 1027,
+        "width": 73,
+        "height": 60,
+        "conf": 27
+    },
+    {
+        "text": "Rounding",
+        "left": 206,
+        "top": 1075,
+        "width": 122,
+        "height": 29,
+        "conf": 61
+    },
+    {
+        "text": "RH",
+        "left": 502,
+        "top": 1087,
+        "width": 30,
+        "height": 28,
+        "conf": 94
+    },
+    {
+        "text": "nie",
+        "left": 628,
+        "top": 1064,
+        "width": 63,
+        "height": 70,
+        "conf": 49
+    },
+    {
+        "text": "CASH",
+        "left": 207,
+        "top": 1146,
+        "width": 60,
+        "height": 27,
+        "conf": 96
+    },
+    {
+        "text": "i",
+        "left": 389,
+        "top": 1137,
+        "width": 82,
+        "height": 8,
+        "conf": 11
+    },
+    {
+        "text": "we",
+        "left": 500,
+        "top": 1122,
+        "width": 192,
+        "height": 50,
+        "conf": 29
+    },
+    {
+        "text": "CHANGE",
+        "left": 208,
+        "top": 1182,
+        "width": 90,
+        "height": 27,
+        "conf": 95
+    },
+    {
+        "text": "nf",
+        "left": 503,
+        "top": 1158,
+        "width": 32,
+        "height": 66,
+        "conf": 8
+    },
+    {
+        "text": "ne",
+        "left": 617,
+        "top": 1171,
+        "width": 74,
+        "height": 70,
+        "conf": 76
+    },
+    {
+        "text": "Ae",
+        "left": 87,
+        "top": 1242,
+        "width": 51,
+        "height": 6,
+        "conf": 5
+    },
+    {
+        "text": "SaaS",
+        "left": 158,
+        "top": 1241,
+        "width": 139,
+        "height": 6,
+        "conf": 0
+    },
+    {
+        "text": "wee",
+        "left": 310,
+        "top": 1243,
+        "width": 44,
+        "height": 5,
+        "conf": 25
+    },
+    {
+        "text": "ene",
+        "left": 397,
+        "top": 1245,
+        "width": 88,
+        "height": 11,
+        "conf": 20
+    },
+    {
+        "text": "-00",
+        "left": 651,
+        "top": 1217,
+        "width": 42,
+        "height": 28,
+        "conf": 56
+    },
+    {
+        "text": "Thank",
+        "left": 228,
+        "top": 1254,
+        "width": 76,
+        "height": 27,
+        "conf": 93
+    },
+    {
+        "text": "You.Come",
+        "left": 320,
+        "top": 1256,
+        "width": 124,
+        "height": 30,
+        "conf": 60
+    },
+    {
+        "text": "Again",
+        "left": 462,
+        "top": 1254,
+        "width": 82,
+        "height": 42,
+        "conf": 0
+    },
+    {
+        "text": "~----~",
+        "left": 547,
+        "top": 1260,
+        "width": 142,
+        "height": 22,
+        "conf": 0
+    },
+    {
+        "text": "2017-12-28",
+        "left": 257,
+        "top": 1291,
+        "width": 142,
+        "height": 29,
+        "conf": 89
+    },
+    {
+        "text": "22:17PM",
+        "left": 415,
+        "top": 1296,
+        "width": 101,
+        "height": 34,
+        "conf": 65
+    }
+]

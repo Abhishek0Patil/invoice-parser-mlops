@@ -1,0 +1,394 @@
+[
+    {
+        "text": "1",
+        "left": 313,
+        "top": 217,
+        "width": 6,
+        "height": 14,
+        "conf": 18
+    },
+    {
+        "text": "(SP)",
+        "left": 331,
+        "top": 215,
+        "width": 64,
+        "height": 32,
+        "conf": 18
+    },
+    {
+        "text": "SDH.",
+        "left": 407,
+        "top": 214,
+        "width": 75,
+        "height": 27,
+        "conf": 73
+    },
+    {
+        "text": "BHA",
+        "left": 496,
+        "top": 215,
+        "width": 76,
+        "height": 26,
+        "conf": 63
+    },
+    {
+        "text": "No.49,",
+        "left": 225,
+        "top": 257,
+        "width": 79,
+        "height": 25,
+        "conf": 80
+    },
+    {
+        "text": "Jalan",
+        "left": 312,
+        "top": 258,
+        "width": 62,
+        "height": 19,
+        "conf": 42
+    },
+    {
+        "text": "Dinar",
+        "left": 385,
+        "top": 257,
+        "width": 62,
+        "height": 20,
+        "conf": 84
+    },
+    {
+        "text": "G",
+        "left": 456,
+        "top": 257,
+        "width": 18,
+        "height": 19,
+        "conf": 41
+    },
+    {
+        "text": "LIS/G,",
+        "left": 484,
+        "top": 257,
+        "width": 69,
+        "height": 25,
+        "conf": 39
+    },
+    {
+        "text": "Subang",
+        "left": 287,
+        "top": 296,
+        "width": 90,
+        "height": 25,
+        "conf": 95
+    },
+    {
+        "text": "Perdana,",
+        "left": 387,
+        "top": 296,
+        "width": 106,
+        "height": 25,
+        "conf": 95
+    },
+    {
+        "text": "40150",
+        "left": 192,
+        "top": 336,
+        "width": 72,
+        "height": 22,
+        "conf": 94
+    },
+    {
+        "text": "Shah",
+        "left": 276,
+        "top": 337,
+        "width": 58,
+        "height": 21,
+        "conf": 96
+    },
+    {
+        "text": "Alam,",
+        "left": 344,
+        "top": 337,
+        "width": 68,
+        "height": 25,
+        "conf": 89
+    },
+    {
+        "text": "Selangor",
+        "left": 423,
+        "top": 338,
+        "width": 100,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "Dt",
+        "left": 537,
+        "top": 338,
+        "width": 30,
+        "height": 19,
+        "conf": 24
+    },
+    {
+        "text": "03-7845",
+        "left": 308,
+        "top": 376,
+        "width": 94,
+        "height": 20,
+        "conf": 93
+    },
+    {
+        "text": "8155",
+        "left": 413,
+        "top": 376,
+        "width": 57,
+        "height": 20,
+        "conf": 79
+    },
+    {
+        "text": "GST",
+        "left": 232,
+        "top": 414,
+        "width": 53,
+        "height": 20,
+        "conf": 94
+    },
+    {
+        "text": "Reg",
+        "left": 295,
+        "top": 415,
+        "width": 45,
+        "height": 24,
+        "conf": 92
+    },
+    {
+        "text": ":",
+        "left": 349,
+        "top": 409,
+        "width": 13,
+        "height": 34,
+        "conf": 32
+    },
+    {
+        "text": "001734164480",
+        "left": 366,
+        "top": 413,
+        "width": 177,
+        "height": 21,
+        "conf": 85
+    },
+    {
+        "text": "CA",
+        "left": 267,
+        "top": 461,
+        "width": 43,
+        "height": 31,
+        "conf": 78
+    },
+    {
+        "text": "SRE",
+        "left": 314,
+        "top": 462,
+        "width": 98,
+        "height": 60,
+        "conf": 41
+    },
+    {
+        "text": "CEIPT",
+        "left": 415,
+        "top": 461,
+        "width": 97,
+        "height": 31,
+        "conf": 90
+    },
+    {
+        "text": "CB:",
+        "left": 109,
+        "top": 510,
+        "width": 70,
+        "height": 21,
+        "conf": 0
+    },
+    {
+        "text": "782923759323",
+        "left": 194,
+        "top": 510,
+        "width": 182,
+        "height": 22,
+        "conf": 65
+    },
+    {
+        "text": "44ktur2017",
+        "left": 414,
+        "top": 490,
+        "width": 150,
+        "height": 38,
+        "conf": 0
+    },
+    {
+        "text": "08:34:22",
+        "left": 575,
+        "top": 505,
+        "width": 102,
+        "height": 22,
+        "conf": 79
+    },
+    {
+        "text": "cashier",
+        "left": 120,
+        "top": 549,
+        "width": 91,
+        "height": 22,
+        "conf": 14
+    },
+    {
+        "text": "Oy",
+        "left": 104,
+        "top": 587,
+        "width": 76,
+        "height": 34,
+        "conf": 87
+    },
+    {
+        "text": "Cade&desc",
+        "left": 183,
+        "top": 587,
+        "width": 169,
+        "height": 34,
+        "conf": 12
+    },
+    {
+        "text": "Price",
+        "left": 467,
+        "top": 587,
+        "width": 67,
+        "height": 34,
+        "conf": 75
+    },
+    {
+        "text": "Total",
+        "left": 572,
+        "top": 585,
+        "width": 91,
+        "height": 35,
+        "conf": 31
+    },
+    {
+        "text": "ALPHA",
+        "left": 107,
+        "top": 639,
+        "width": 95,
+        "height": 22,
+        "conf": 93
+    },
+    {
+        "text": "LIPID",
+        "left": 216,
+        "top": 639,
+        "width": 72,
+        "height": 22,
+        "conf": 41
+    },
+    {
+        "text": "LIFE",
+        "left": 302,
+        "top": 639,
+        "width": 58,
+        "height": 22,
+        "conf": 93
+    },
+    {
+        "text": "LINE",
+        "left": 374,
+        "top": 639,
+        "width": 62,
+        "height": 22,
+        "conf": 96
+    },
+    {
+        "text": "SR",
+        "left": 568,
+        "top": 636,
+        "width": 32,
+        "height": 17,
+        "conf": 70
+    },
+    {
+        "text": "165",
+        "left": 436,
+        "top": 678,
+        "width": 45,
+        "height": 43,
+        "conf": 92
+    },
+    {
+        "text": "00",
+        "left": 488,
+        "top": 679,
+        "width": 54,
+        "height": 42,
+        "conf": 52
+    },
+    {
+        "text": "168.",
+        "left": 549,
+        "top": 678,
+        "width": 63,
+        "height": 42,
+        "conf": 57
+    },
+    {
+        "text": "00",
+        "left": 618,
+        "top": 677,
+        "width": 29,
+        "height": 22,
+        "conf": 57
+    },
+    {
+        "text": "165,00",
+        "left": 542,
+        "top": 761,
+        "width": 89,
+        "height": 36,
+        "conf": 87
+    },
+    {
+        "text": "Rounding",
+        "left": 110,
+        "top": 817,
+        "width": 124,
+        "height": 29,
+        "conf": 84
+    },
+    {
+        "text": "Adj",
+        "left": 245,
+        "top": 818,
+        "width": 41,
+        "height": 28,
+        "conf": 57
+    },
+    {
+        "text": ":",
+        "left": 301,
+        "top": 823,
+        "width": 2,
+        "height": 17,
+        "conf": 76
+    },
+    {
+        "text": "VISA",
+        "left": 108,
+        "top": 908,
+        "width": 67,
+        "height": 21,
+        "conf": 95
+    },
+    {
+        "text": "Amount",
+        "left": 383,
+        "top": 972,
+        "width": 103,
+        "height": 21,
+        "conf": 88
+    }
+]

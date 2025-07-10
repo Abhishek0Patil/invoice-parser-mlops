@@ -1,0 +1,450 @@
+[
+    {
+        "text": "tan",
+        "left": 153,
+        "top": 51,
+        "width": 51,
+        "height": 23,
+        "conf": 93
+    },
+    {
+        "text": "chay",
+        "left": 217,
+        "top": 47,
+        "width": 75,
+        "height": 35,
+        "conf": 92
+    },
+    {
+        "text": "yee",
+        "left": 302,
+        "top": 56,
+        "width": 56,
+        "height": 26,
+        "conf": 96
+    },
+    {
+        "text": "ABC",
+        "left": 134,
+        "top": 93,
+        "width": 38,
+        "height": 14,
+        "conf": 92
+    },
+    {
+        "text": "HO",
+        "left": 181,
+        "top": 93,
+        "width": 29,
+        "height": 14,
+        "conf": 92
+    },
+    {
+        "text": "TRADING",
+        "left": 216,
+        "top": 93,
+        "width": 89,
+        "height": 14,
+        "conf": 95
+    },
+    {
+        "text": "No,2&4,",
+        "left": 112,
+        "top": 117,
+        "width": 55,
+        "height": 13,
+        "conf": 69
+    },
+    {
+        "text": "JALAN",
+        "left": 175,
+        "top": 113,
+        "width": 39,
+        "height": 26,
+        "conf": 90
+    },
+    {
+        "text": "HARMONT",
+        "left": 221,
+        "top": 117,
+        "width": 70,
+        "height": 14,
+        "conf": 89
+    },
+    {
+        "text": "3/2,",
+        "left": 299,
+        "top": 117,
+        "width": 27,
+        "height": 16,
+        "conf": 96
+    },
+    {
+        "text": "TAMAN",
+        "left": 130,
+        "top": 141,
+        "width": 51,
+        "height": 13,
+        "conf": 89
+    },
+    {
+        "text": "DESA",
+        "left": 189,
+        "top": 141,
+        "width": 39,
+        "height": 13,
+        "conf": 91
+    },
+    {
+        "text": "HARMONT.",
+        "left": 234,
+        "top": 141,
+        "width": 70,
+        "height": 14,
+        "conf": 62
+    },
+    {
+        "text": "81100",
+        "left": 113,
+        "top": 164,
+        "width": 44,
+        "height": 13,
+        "conf": 95
+    },
+    {
+        "text": "JOHOR",
+        "left": 163,
+        "top": 164,
+        "width": 50,
+        "height": 13,
+        "conf": 93
+    },
+    {
+        "text": "BAHRUJOHOR",
+        "left": 220,
+        "top": 164,
+        "width": 106,
+        "height": 13,
+        "conf": 50
+    },
+    {
+        "text": "07-355",
+        "left": 174,
+        "top": 187,
+        "width": 50,
+        "height": 13,
+        "conf": 94
+    },
+    {
+        "text": "2616",
+        "left": 231,
+        "top": 187,
+        "width": 34,
+        "height": 13,
+        "conf": 96
+    },
+    {
+        "text": "Cash",
+        "left": 29,
+        "top": 241,
+        "width": 34,
+        "height": 18,
+        "conf": 96
+    },
+    {
+        "text": "Bill",
+        "left": 70,
+        "top": 245,
+        "width": 20,
+        "height": 14,
+        "conf": 92
+    },
+    {
+        "text": ";",
+        "left": 102,
+        "top": 256,
+        "width": 1,
+        "height": 2,
+        "conf": 12
+    },
+    {
+        "text": "~01-143008",
+        "left": 124,
+        "top": 241,
+        "width": 77,
+        "height": 19,
+        "conf": 0
+    },
+    {
+        "text": "Date",
+        "left": 30,
+        "top": 269,
+        "width": 33,
+        "height": 13,
+        "conf": 65
+    },
+    {
+        "text": "\u2014;",
+        "left": 101,
+        "top": 273,
+        "width": 1,
+        "height": 3,
+        "conf": 19
+    },
+    {
+        "text": "09/01/2019",
+        "left": 124,
+        "top": 268,
+        "width": 85,
+        "height": 17,
+        "conf": 43
+    },
+    {
+        "text": "8:01:11",
+        "left": 215,
+        "top": 269,
+        "width": 56,
+        "height": 14,
+        "conf": 66
+    },
+    {
+        "text": "PM",
+        "left": 277,
+        "top": 270,
+        "width": 20,
+        "height": 13,
+        "conf": 85
+    },
+    {
+        "text": "Cashier:",
+        "left": 29,
+        "top": 292,
+        "width": 52,
+        "height": 14,
+        "conf": 51
+    },
+    {
+        "text": "OL",
+        "left": 124,
+        "top": 293,
+        "width": 17,
+        "height": 13,
+        "conf": 58
+    },
+    {
+        "text": "Description",
+        "left": 42,
+        "top": 312,
+        "width": 93,
+        "height": 26,
+        "conf": 96
+    },
+    {
+        "text": "Qty",
+        "left": 216,
+        "top": 316,
+        "width": 29,
+        "height": 16,
+        "conf": 55
+    },
+    {
+        "text": "=",
+        "left": 257,
+        "top": 312,
+        "width": 7,
+        "height": 26,
+        "conf": 46
+    },
+    {
+        "text": "Price:",
+        "left": 275,
+        "top": 317,
+        "width": 40,
+        "height": 13,
+        "conf": 45
+    },
+    {
+        "text": "Amount",
+        "left": 333,
+        "top": 317,
+        "width": 65,
+        "height": 13,
+        "conf": 89
+    },
+    {
+        "text": "RM",
+        "left": 283,
+        "top": 341,
+        "width": 25,
+        "height": 13,
+        "conf": 96
+    },
+    {
+        "text": "\u201cT",
+        "left": 17,
+        "top": 358,
+        "width": 14,
+        "height": 18,
+        "conf": 51
+    },
+    {
+        "text": "\u2014",
+        "left": 112,
+        "top": 358,
+        "width": 16,
+        "height": 1,
+        "conf": 69
+    },
+    {
+        "text": "\"2",
+        "left": 200,
+        "top": 358,
+        "width": 44,
+        "height": 20,
+        "conf": 14
+    },
+    {
+        "text": "15.50",
+        "left": 264,
+        "top": 358,
+        "width": 40,
+        "height": 18,
+        "conf": 77
+    },
+    {
+        "text": "Total",
+        "left": 148,
+        "top": 422,
+        "width": 38,
+        "height": 13,
+        "conf": 46
+    },
+    {
+        "text": "Amount:",
+        "left": 192,
+        "top": 422,
+        "width": 64,
+        "height": 13,
+        "conf": 96
+    },
+    {
+        "text": "Cash",
+        "left": 139,
+        "top": 445,
+        "width": 35,
+        "height": 12,
+        "conf": 96
+    },
+    {
+        "text": "Received",
+        "left": 181,
+        "top": 444,
+        "width": 66,
+        "height": 13,
+        "conf": 96
+    },
+    {
+        "text": "Change",
+        "left": 187,
+        "top": 468,
+        "width": 68,
+        "height": 16,
+        "conf": 85
+    },
+    {
+        "text": ":",
+        "left": 250,
+        "top": 458,
+        "width": 8,
+        "height": 31,
+        "conf": 85
+    },
+    {
+        "text": "*Goods",
+        "left": 91,
+        "top": 505,
+        "width": 56,
+        "height": 15,
+        "conf": 91
+    },
+    {
+        "text": "Sold",
+        "left": 156,
+        "top": 506,
+        "width": 33,
+        "height": 14,
+        "conf": 96
+    },
+    {
+        "text": "are",
+        "left": 198,
+        "top": 510,
+        "width": 25,
+        "height": 9,
+        "conf": 92
+    },
+    {
+        "text": "non-refundabl",
+        "left": 232,
+        "top": 506,
+        "width": 110,
+        "height": 15,
+        "conf": 78
+    },
+    {
+        "text": "***Thank",
+        "left": 158,
+        "top": 528,
+        "width": 73,
+        "height": 14,
+        "conf": 33
+    },
+    {
+        "text": "You***",
+        "left": 240,
+        "top": 529,
+        "width": 54,
+        "height": 14,
+        "conf": 91
+    },
+    {
+        "text": "3",
+        "left": 374,
+        "top": 528,
+        "width": 9,
+        "height": 30,
+        "conf": 80
+    },
+    {
+        "text": ").00",
+        "left": 389,
+        "top": 529,
+        "width": 46,
+        "height": 33,
+        "conf": 33
+    },
+    {
+        "text": "**\"Please",
+        "left": 124,
+        "top": 552,
+        "width": 75,
+        "height": 14,
+        "conf": 72
+    },
+    {
+        "text": "Come",
+        "left": 207,
+        "top": 552,
+        "width": 41,
+        "height": 13,
+        "conf": 93
+    },
+    {
+        "text": "Again***",
+        "left": 257,
+        "top": 552,
+        "width": 70,
+        "height": 17,
+        "conf": 80
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "text": "RESTAURANT",
+        "left": 361,
+        "top": 391,
+        "width": 75,
+        "height": 15,
+        "conf": 79
+    },
+    {
+        "text": "SIN",
+        "left": 445,
+        "top": 383,
+        "width": 19,
+        "height": 23,
+        "conf": 79
+    },
+    {
+        "text": "3-113,",
+        "left": 338,
+        "top": 409,
+        "width": 67,
+        "height": 16,
+        "conf": 19
+    },
+    {
+        "text": "JL",
+        "left": 394,
+        "top": 398,
+        "width": 10,
+        "height": 38,
+        "conf": 43
+    },
+    {
+        "text": "TBRAHUH",
+        "left": 415,
+        "top": 410,
+        "width": 52,
+        "height": 16,
+        "conf": 13
+    },
+    {
+        "text": "SULTAN",
+        "left": 475,
+        "top": 411,
+        "width": 45,
+        "height": 16,
+        "conf": 86
+    },
+    {
+        "text": "80300",
+        "left": 368,
+        "top": 429,
+        "width": 37,
+        "height": 15,
+        "conf": 88
+    },
+    {
+        "text": "JOHOR",
+        "left": 414,
+        "top": 430,
+        "width": 37,
+        "height": 15,
+        "conf": 57
+    },
+    {
+        "text": "BAHRU",
+        "left": 460,
+        "top": 430,
+        "width": 37,
+        "height": 15,
+        "conf": 11
+    },
+    {
+        "text": "JOHOR",
+        "left": 413,
+        "top": 449,
+        "width": 37,
+        "height": 15,
+        "conf": 84
+    },
+    {
+        "text": "H/P:",
+        "left": 367,
+        "top": 467,
+        "width": 27,
+        "height": 15,
+        "conf": 59
+    },
+    {
+        "text": "019-7521215",
+        "left": 405,
+        "top": 467,
+        "width": 84,
+        "height": 16,
+        "conf": 59
+    },
+    {
+        "text": "O16-7867668",
+        "left": 405,
+        "top": 487,
+        "width": 83,
+        "height": 15,
+        "conf": 52
+    },
+    {
+        "text": "09/03/2018",
+        "left": 335,
+        "top": 524,
+        "width": 75,
+        "height": 16,
+        "conf": 90
+    },
+    {
+        "text": "21:28",
+        "left": 419,
+        "top": 525,
+        "width": 38,
+        "height": 15,
+        "conf": 70
+    },
+    {
+        "text": "0001",
+        "left": 488,
+        "top": 526,
+        "width": 28,
+        "height": 15,
+        "conf": 59
+    },
+    {
+        "text": "00000047259",
+        "left": 335,
+        "top": 543,
+        "width": 83,
+        "height": 16,
+        "conf": 68
+    },
+    {
+        "text": "CASHIEROT",
+        "left": 427,
+        "top": 544,
+        "width": 65,
+        "height": 15,
+        "conf": 0
+    },
+    {
+        "text": "OPT.O&",
+        "left": 334,
+        "top": 581,
+        "width": 60,
+        "height": 15,
+        "conf": 84
+    },
+    {
+        "text": "=",
+        "left": 407,
+        "top": 577,
+        "width": 8,
+        "height": 29,
+        "conf": 57
+    },
+    {
+        "text": "RH",
+        "left": 426,
+        "top": 582,
+        "width": 14,
+        "height": 15,
+        "conf": 60
+    },
+    {
+        "text": "149.00",
+        "left": 457,
+        "top": 583,
+        "width": 44,
+        "height": 15,
+        "conf": 73
+    },
+    {
+        "text": "DPT-O4",
+        "left": 334,
+        "top": 600,
+        "width": 60,
+        "height": 16,
+        "conf": 48
+    },
+    {
+        "text": "=",
+        "left": 410,
+        "top": 596,
+        "width": 10,
+        "height": 30,
+        "conf": 34
+    },
+    {
+        "text": "RN",
+        "left": 433,
+        "top": 601,
+        "width": 14,
+        "height": 15,
+        "conf": 38
+    },
+    {
+        "text": "21.00",
+        "left": 464,
+        "top": 602,
+        "width": 37,
+        "height": 15,
+        "conf": 69
+    },
+    {
+        "text": "CASH",
+        "left": 333,
+        "top": 639,
+        "width": 37,
+        "height": 14,
+        "conf": 87
+    },
+    {
+        "text": "RM",
+        "left": 348,
+        "top": 657,
+        "width": 29,
+        "height": 16,
+        "conf": 87
+    },
+    {
+        "text": "170.00",
+        "left": 412,
+        "top": 658,
+        "width": 88,
+        "height": 16,
+        "conf": 87
+    }
+]

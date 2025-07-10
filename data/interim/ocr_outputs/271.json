@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Z=",
+        "left": 76,
+        "top": 29,
+        "width": 40,
+        "height": 21,
+        "conf": 59
+    },
+    {
+        "text": "0%",
+        "left": 134,
+        "top": 22,
+        "width": 27,
+        "height": 24,
+        "conf": 38
+    },
+    {
+        "text": "1.",
+        "left": 48,
+        "top": 83,
+        "width": 20,
+        "height": 6,
+        "conf": 15
+    },
+    {
+        "text": "THANK",
+        "left": 92,
+        "top": 61,
+        "width": 69,
+        "height": 27,
+        "conf": 69
+    },
+    {
+        "text": "YOU",
+        "left": 180,
+        "top": 59,
+        "width": 41,
+        "height": 24,
+        "conf": 95
+    },
+    {
+        "text": "AND",
+        "left": 240,
+        "top": 58,
+        "width": 42,
+        "height": 24,
+        "conf": 85
+    },
+    {
+        "text": "DO",
+        "left": 300,
+        "top": 55,
+        "width": 27,
+        "height": 24,
+        "conf": 69
+    }
+]

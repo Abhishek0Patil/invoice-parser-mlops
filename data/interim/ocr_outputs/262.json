@@ -1,0 +1,42 @@
+[
+    {
+        "text": "20%",
+        "left": 480,
+        "top": 655,
+        "width": 51,
+        "height": 23,
+        "conf": 45
+    },
+    {
+        "text": "1839/1",
+        "left": 322,
+        "top": 656,
+        "width": 92,
+        "height": 23,
+        "conf": 1
+    },
+    {
+        "text": "03/703",
+        "left": 419,
+        "top": 656,
+        "width": 74,
+        "height": 23,
+        "conf": 1
+    },
+    {
+        "text": "0",
+        "left": 263,
+        "top": 657,
+        "width": 12,
+        "height": 22,
+        "conf": 56
+    },
+    {
+        "text": "7h",
+        "left": 137,
+        "top": 657,
+        "width": 25,
+        "height": 21,
+        "conf": 48
+    }
+]

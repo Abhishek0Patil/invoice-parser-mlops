@@ -1,0 +1,610 @@
+[
+    {
+        "text": "AMANO",
+        "left": 12,
+        "top": 220,
+        "width": 68,
+        "height": 23,
+        "conf": 65
+    },
+    {
+        "text": "MALAYSIA",
+        "left": 95,
+        "top": 224,
+        "width": 112,
+        "height": 21,
+        "conf": 94
+    },
+    {
+        "text": "SON",
+        "left": 222,
+        "top": 223,
+        "width": 42,
+        "height": 21,
+        "conf": 96
+    },
+    {
+        "text": "BHD",
+        "left": 278,
+        "top": 223,
+        "width": 43,
+        "height": 21,
+        "conf": 86
+    },
+    {
+        "text": "(682288-V",
+        "left": 338,
+        "top": 221,
+        "width": 139,
+        "height": 26,
+        "conf": 90
+    },
+    {
+        "text": ")",
+        "left": 468,
+        "top": 216,
+        "width": 14,
+        "height": 40,
+        "conf": 90
+    },
+    {
+        "text": "12",
+        "left": 73,
+        "top": 256,
+        "width": 21,
+        "height": 21,
+        "conf": 93
+    },
+    {
+        "text": "JALAN",
+        "left": 109,
+        "top": 259,
+        "width": 70,
+        "height": 20,
+        "conf": 93
+    },
+    {
+        "text": "PENGACARA",
+        "left": 193,
+        "top": 257,
+        "width": 128,
+        "height": 21,
+        "conf": 92
+    },
+    {
+        "text": "U1/48",
+        "left": 335,
+        "top": 255,
+        "width": 70,
+        "height": 24,
+        "conf": 92
+    },
+    {
+        "text": "TEMASYA",
+        "left": 67,
+        "top": 289,
+        "width": 98,
+        "height": 23,
+        "conf": 83
+    },
+    {
+        "text": "TNOUSTRIAL",
+        "left": 184,
+        "top": 289,
+        "width": 135,
+        "height": 23,
+        "conf": 83
+    },
+    {
+        "text": "PARK",
+        "left": 335,
+        "top": 290,
+        "width": 56,
+        "height": 22,
+        "conf": 95
+    },
+    {
+        "text": "49150",
+        "left": 69,
+        "top": 323,
+        "width": 68,
+        "height": 21,
+        "conf": 63
+    },
+    {
+        "text": "SHAH",
+        "left": 151,
+        "top": 323,
+        "width": 56,
+        "height": 22,
+        "conf": 84
+    },
+    {
+        "text": "ALAM",
+        "left": 222,
+        "top": 324,
+        "width": 56,
+        "height": 20,
+        "conf": 93
+    },
+    {
+        "text": "SELANGOR",
+        "left": 292,
+        "top": 323,
+        "width": 113,
+        "height": 23,
+        "conf": 94
+    },
+    {
+        "text": "TEL:",
+        "left": 83,
+        "top": 357,
+        "width": 48,
+        "height": 20,
+        "conf": 79
+    },
+    {
+        "text": "03-68695002/5003",
+        "left": 151,
+        "top": 355,
+        "width": 226,
+        "height": 24,
+        "conf": 44
+    },
+    {
+        "text": "(GST",
+        "left": 83,
+        "top": 387,
+        "width": 48,
+        "height": 25,
+        "conf": 57
+    },
+    {
+        "text": "10:",
+        "left": 156,
+        "top": 391,
+        "width": 31,
+        "height": 20,
+        "conf": 65
+    },
+    {
+        "text": "001137704960)",
+        "left": 207,
+        "top": 389,
+        "width": 184,
+        "height": 25,
+        "conf": 79
+    },
+    {
+        "text": "P/S",
+        "left": 11,
+        "top": 552,
+        "width": 41,
+        "height": 22,
+        "conf": 90
+    },
+    {
+        "text": "#02",
+        "left": 69,
+        "top": 554,
+        "width": 39,
+        "height": 21,
+        "conf": 55
+    },
+    {
+        "text": "A",
+        "left": 137,
+        "top": 556,
+        "width": 14,
+        "height": 19,
+        "conf": 55
+    },
+    {
+        "text": "INV-No.",
+        "left": 170,
+        "top": 556,
+        "width": 85,
+        "height": 20,
+        "conf": 53
+    },
+    {
+        "text": "00023004",
+        "left": 270,
+        "top": 545,
+        "width": 103,
+        "height": 41,
+        "conf": 80
+    },
+    {
+        "text": "17000138",
+        "left": 381,
+        "top": 545,
+        "width": 110,
+        "height": 41,
+        "conf": 80
+    },
+    {
+        "text": "1/0",
+        "left": 17,
+        "top": 586,
+        "width": 36,
+        "height": 20,
+        "conf": 77
+    },
+    {
+        "text": "#11",
+        "left": 70,
+        "top": 588,
+        "width": 35,
+        "height": 20,
+        "conf": 78
+    },
+    {
+        "text": "ficket",
+        "left": 269,
+        "top": 589,
+        "width": 78,
+        "height": 20,
+        "conf": 42
+    },
+    {
+        "text": "No.",
+        "left": 363,
+        "top": 577,
+        "width": 34,
+        "height": 41,
+        "conf": 89
+    },
+    {
+        "text": "029190",
+        "left": 411,
+        "top": 588,
+        "width": 80,
+        "height": 21,
+        "conf": 73
+    },
+    {
+        "text": "Entry",
+        "left": 11,
+        "top": 620,
+        "width": 69,
+        "height": 23,
+        "conf": 92
+    },
+    {
+        "text": "Time",
+        "left": 99,
+        "top": 620,
+        "width": 52,
+        "height": 21,
+        "conf": 86
+    },
+    {
+        "text": "30/04/2017",
+        "left": 180,
+        "top": 619,
+        "width": 139,
+        "height": 24,
+        "conf": 86
+    },
+    {
+        "text": "(Sun)",
+        "left": 337,
+        "top": 619,
+        "width": 68,
+        "height": 24,
+        "conf": 95
+    },
+    {
+        "text": "19:44",
+        "left": 425,
+        "top": 621,
+        "width": 64,
+        "height": 21,
+        "conf": 93
+    },
+    {
+        "text": "Paid",
+        "left": 11,
+        "top": 652,
+        "width": 56,
+        "height": 21,
+        "conf": 94
+    },
+    {
+        "text": "Time",
+        "left": 87,
+        "top": 653,
+        "width": 50,
+        "height": 21,
+        "conf": 82
+    },
+    {
+        "text": "30/04/2017",
+        "left": 180,
+        "top": 651,
+        "width": 139,
+        "height": 25,
+        "conf": 65
+    },
+    {
+        "text": "(Sun)",
+        "left": 337,
+        "top": 652,
+        "width": 68,
+        "height": 25,
+        "conf": 94
+    },
+    {
+        "text": "23:14",
+        "left": 421,
+        "top": 654,
+        "width": 68,
+        "height": 21,
+        "conf": 93
+    },
+    {
+        "text": "Park",
+        "left": 11,
+        "top": 684,
+        "width": 52,
+        "height": 21,
+        "conf": 76
+    },
+    {
+        "text": "ing",
+        "left": 73,
+        "top": 673,
+        "width": 38,
+        "height": 43,
+        "conf": 76
+    },
+    {
+        "text": "Tine",
+        "left": 124,
+        "top": 685,
+        "width": 55,
+        "height": 22,
+        "conf": 80
+    },
+    {
+        "text": "3:30",
+        "left": 435,
+        "top": 686,
+        "width": 56,
+        "height": 21,
+        "conf": 82
+    },
+    {
+        "text": "Type",
+        "left": 12,
+        "top": 716,
+        "width": 55,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "Rate",
+        "left": 235,
+        "top": 720,
+        "width": 56,
+        "height": 20,
+        "conf": 94
+    },
+    {
+        "text": "A",
+        "left": 306,
+        "top": 721,
+        "width": 14,
+        "height": 19,
+        "conf": 95
+    },
+    {
+        "text": "M3.",
+        "left": 405,
+        "top": 719,
+        "width": 86,
+        "height": 22,
+        "conf": 0
+    },
+    {
+        "text": "00",
+        "left": 469,
+        "top": 712,
+        "width": 27,
+        "height": 39,
+        "conf": 74
+    },
+    {
+        "text": "Parking",
+        "left": 11,
+        "top": 782,
+        "width": 97,
+        "height": 26,
+        "conf": 94
+    },
+    {
+        "text": "Fee",
+        "left": 123,
+        "top": 784,
+        "width": 41,
+        "height": 21,
+        "conf": 87
+    },
+    {
+        "text": "Fee.",
+        "left": 405,
+        "top": 785,
+        "width": 49,
+        "height": 21,
+        "conf": 56
+    },
+    {
+        "text": "&3",
+        "left": 463,
+        "top": 784,
+        "width": 28,
+        "height": 21,
+        "conf": 64
+    },
+    {
+        "text": "GSTCInchuaad)",
+        "left": 12,
+        "top": 815,
+        "width": 181,
+        "height": 23,
+        "conf": 11
+    },
+    {
+        "text": "=",
+        "left": 215,
+        "top": 811,
+        "width": 12,
+        "height": 35,
+        "conf": 25
+    },
+    {
+        "text": "56.00",
+        "left": 236,
+        "top": 819,
+        "width": 55,
+        "height": 19,
+        "conf": 25
+    },
+    {
+        "text": "%",
+        "left": 306,
+        "top": 819,
+        "width": 7,
+        "height": 17,
+        "conf": 74
+    },
+    {
+        "text": "RMD",
+        "left": 406,
+        "top": 813,
+        "width": 42,
+        "height": 35,
+        "conf": 39
+    },
+    {
+        "text": "Me",
+        "left": 459,
+        "top": 813,
+        "width": 53,
+        "height": 57,
+        "conf": 43
+    },
+    {
+        "text": "Tote",
+        "left": 21,
+        "top": 880,
+        "width": 101,
+        "height": 23,
+        "conf": 24
+    },
+    {
+        "text": "l",
+        "left": 135,
+        "top": 884,
+        "width": 5,
+        "height": 19,
+        "conf": 34
+    },
+    {
+        "text": "\\",
+        "left": 274,
+        "top": 900,
+        "width": 5,
+        "height": 15,
+        "conf": 77
+    },
+    {
+        "text": "fM3.00",
+        "left": 363,
+        "top": 882,
+        "width": 123,
+        "height": 23,
+        "conf": 46
+    },
+    {
+        "text": "Paia",
+        "left": 12,
+        "top": 913,
+        "width": 112,
+        "height": 23,
+        "conf": 85
+    },
+    {
+        "text": "2",
+        "left": 272,
+        "top": 932,
+        "width": 19,
+        "height": 5,
+        "conf": 25
+    },
+    {
+        "text": "PM3.00",
+        "left": 363,
+        "top": 915,
+        "width": 123,
+        "height": 22,
+        "conf": 66
+    },
+    {
+        "text": "Chane",
+        "left": 12,
+        "top": 946,
+        "width": 168,
+        "height": 26,
+        "conf": 0
+    },
+    {
+        "text": "FMO.00",
+        "left": 363,
+        "top": 948,
+        "width": 123,
+        "height": 22,
+        "conf": 71
+    },
+    {
+        "text": "Thahk",
+        "left": 208,
+        "top": 981,
+        "width": 67,
+        "height": 21,
+        "conf": 37
+    },
+    {
+        "text": "You",
+        "left": 293,
+        "top": 982,
+        "width": 41,
+        "height": 20,
+        "conf": 95
+    },
+    {
+        "text": "Inclusive",
+        "left": 170,
+        "top": 1014,
+        "width": 121,
+        "height": 21,
+        "conf": 76
+    },
+    {
+        "text": "6%",
+        "left": 306,
+        "top": 1014,
+        "width": 28,
+        "height": 23,
+        "conf": 96
+    },
+    {
+        "text": "GSI",
+        "left": 349,
+        "top": 1015,
+        "width": 37,
+        "height": 21,
+        "conf": 93
+    }
+]

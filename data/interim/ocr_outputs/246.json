@@ -1,0 +1,554 @@
+[
+    {
+        "text": "KING'S",
+        "left": 59,
+        "top": 203,
+        "width": 87,
+        "height": 25,
+        "conf": 94
+    },
+    {
+        "text": "CONFECTIONERY",
+        "left": 164,
+        "top": 200,
+        "width": 192,
+        "height": 27,
+        "conf": 93
+    },
+    {
+        "text": "\u00a7/B",
+        "left": 373,
+        "top": 199,
+        "width": 43,
+        "height": 25,
+        "conf": 45
+    },
+    {
+        "text": "273900-U",
+        "left": 433,
+        "top": 193,
+        "width": 118,
+        "height": 29,
+        "conf": 37
+    },
+    {
+        "text": "(6K)",
+        "left": 571,
+        "top": 191,
+        "width": 69,
+        "height": 32,
+        "conf": 11
+    },
+    {
+        "text": "LOT",
+        "left": 54,
+        "top": 240,
+        "width": 44,
+        "height": 24,
+        "conf": 92
+    },
+    {
+        "text": "NO.",
+        "left": 113,
+        "top": 240,
+        "width": 40,
+        "height": 24,
+        "conf": 92
+    },
+    {
+        "text": "G23,",
+        "left": 173,
+        "top": 240,
+        "width": 55,
+        "height": 31,
+        "conf": 95
+    },
+    {
+        "text": "GIANT",
+        "left": 247,
+        "top": 238,
+        "width": 72,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "KELANA",
+        "left": 336,
+        "top": 236,
+        "width": 89,
+        "height": 26,
+        "conf": 93
+    },
+    {
+        "text": "JAYA",
+        "left": 442,
+        "top": 233,
+        "width": 59,
+        "height": 26,
+        "conf": 93
+    },
+    {
+        "text": ":",
+        "left": 660,
+        "top": 241,
+        "width": 2,
+        "height": 2,
+        "conf": 59
+    },
+    {
+        "text": "LOT",
+        "left": 59,
+        "top": 280,
+        "width": 43,
+        "height": 24,
+        "conf": 91
+    },
+    {
+        "text": "PT244,",
+        "left": 119,
+        "top": 280,
+        "width": 83,
+        "height": 30,
+        "conf": 89
+    },
+    {
+        "text": "JLN",
+        "left": 222,
+        "top": 279,
+        "width": 44,
+        "height": 24,
+        "conf": 87
+    },
+    {
+        "text": "PERBANDARAN",
+        "left": 282,
+        "top": 275,
+        "width": 165,
+        "height": 27,
+        "conf": 86
+    },
+    {
+        "text": "$56/4",
+        "left": 464,
+        "top": 272,
+        "width": 72,
+        "height": 26,
+        "conf": 27
+    },
+    {
+        "text": "PUSAT",
+        "left": 55,
+        "top": 319,
+        "width": 71,
+        "height": 25,
+        "conf": 91
+    },
+    {
+        "text": "BANDAR",
+        "left": 145,
+        "top": 319,
+        "width": 86,
+        "height": 25,
+        "conf": 61
+    },
+    {
+        "text": "KELANA",
+        "left": 248,
+        "top": 318,
+        "width": 86,
+        "height": 25,
+        "conf": 93
+    },
+    {
+        "text": "JAYA,",
+        "left": 352,
+        "top": 316,
+        "width": 70,
+        "height": 30,
+        "conf": 91
+    },
+    {
+        "text": "PETALING",
+        "left": 443,
+        "top": 311,
+        "width": 118,
+        "height": 28,
+        "conf": 61
+    },
+    {
+        "text": "TEL",
+        "left": 61,
+        "top": 359,
+        "width": 41,
+        "height": 25,
+        "conf": 95
+    },
+    {
+        "text": "NO:",
+        "left": 119,
+        "top": 359,
+        "width": 40,
+        "height": 25,
+        "conf": 93
+    },
+    {
+        "text": "O03",
+        "left": 179,
+        "top": 359,
+        "width": 27,
+        "height": 24,
+        "conf": 70
+    },
+    {
+        "text": "-",
+        "left": 223,
+        "top": 369,
+        "width": 13,
+        "height": 4,
+        "conf": 90
+    },
+    {
+        "text": "7803",
+        "left": 252,
+        "top": 358,
+        "width": 58,
+        "height": 24,
+        "conf": 93
+    },
+    {
+        "text": "0974",
+        "left": 327,
+        "top": 356,
+        "width": 60,
+        "height": 25,
+        "conf": 87
+    },
+    {
+        "text": "(6ST",
+        "left": 58,
+        "top": 399,
+        "width": 54,
+        "height": 30,
+        "conf": 57
+    },
+    {
+        "text": "ID",
+        "left": 131,
+        "top": 399,
+        "width": 27,
+        "height": 24,
+        "conf": 83
+    },
+    {
+        "text": ":",
+        "left": 175,
+        "top": 406,
+        "width": 8,
+        "height": 17,
+        "conf": 74
+    },
+    {
+        "text": "000294060022)",
+        "left": 203,
+        "top": 396,
+        "width": 190,
+        "height": 30,
+        "conf": 65
+    },
+    {
+        "text": "Tax",
+        "left": 168,
+        "top": 439,
+        "width": 97,
+        "height": 23,
+        "conf": 94
+    },
+    {
+        "text": "Invoice",
+        "left": 316,
+        "top": 434,
+        "width": 240,
+        "height": 26,
+        "conf": 93
+    },
+    {
+        "text": "Inv",
+        "left": 57,
+        "top": 479,
+        "width": 41,
+        "height": 24,
+        "conf": 94
+    },
+    {
+        "text": "No",
+        "left": 114,
+        "top": 479,
+        "width": 28,
+        "height": 24,
+        "conf": 89
+    },
+    {
+        "text": ":GK330785499",
+        "left": 161,
+        "top": 476,
+        "width": 173,
+        "height": 26,
+        "conf": 1
+    },
+    {
+        "text": "|",
+        "left": 350,
+        "top": 466,
+        "width": 4,
+        "height": 43,
+        "conf": 22
+    },
+    {
+        "text": "Bate:D2/02/17",
+        "left": 367,
+        "top": 472,
+        "width": 194,
+        "height": 27,
+        "conf": 29
+    },
+    {
+        "text": "19:44",
+        "left": 580,
+        "top": 470,
+        "width": 73,
+        "height": 25,
+        "conf": 78
+    },
+    {
+        "text": "Cashier",
+        "left": 60,
+        "top": 518,
+        "width": 100,
+        "height": 24,
+        "conf": 69
+    },
+    {
+        "text": ":FT10060",
+        "left": 169,
+        "top": 516,
+        "width": 111,
+        "height": 25,
+        "conf": 69
+    },
+    {
+        "text": "Ctr",
+        "left": 374,
+        "top": 514,
+        "width": 42,
+        "height": 24,
+        "conf": 92
+    },
+    {
+        "text": "201",
+        "left": 436,
+        "top": 513,
+        "width": 40,
+        "height": 24,
+        "conf": 32
+    },
+    {
+        "text": "(Total",
+        "left": 122,
+        "top": 1066,
+        "width": 84,
+        "height": 30,
+        "conf": 96
+    },
+    {
+        "text": "Included",
+        "left": 226,
+        "top": 1067,
+        "width": 114,
+        "height": 24,
+        "conf": 95
+    },
+    {
+        "text": "GST",
+        "left": 359,
+        "top": 1068,
+        "width": 43,
+        "height": 23,
+        "conf": 79
+    },
+    {
+        "text": "@",
+        "left": 419,
+        "top": 1068,
+        "width": 13,
+        "height": 23,
+        "conf": 71
+    },
+    {
+        "text": "4%:",
+        "left": 450,
+        "top": 1068,
+        "width": 55,
+        "height": 24,
+        "conf": 63
+    },
+    {
+        "text": "0643)",
+        "left": 539,
+        "top": 1036,
+        "width": 152,
+        "height": 63,
+        "conf": 42
+    },
+    {
+        "text": "GOODS",
+        "left": 56,
+        "top": 1104,
+        "width": 71,
+        "height": 24,
+        "conf": 47
+    },
+    {
+        "text": "SOLD",
+        "left": 145,
+        "top": 1106,
+        "width": 57,
+        "height": 23,
+        "conf": 87
+    },
+    {
+        "text": "NOT",
+        "left": 219,
+        "top": 1106,
+        "width": 41,
+        "height": 24,
+        "conf": 93
+    },
+    {
+        "text": "RETURNABLE/EXCHANGEABLE",
+        "left": 278,
+        "top": 1107,
+        "width": 356,
+        "height": 25,
+        "conf": 61
+    },
+    {
+        "text": "!",
+        "left": 626,
+        "top": 1100,
+        "width": 11,
+        "height": 42,
+        "conf": 61
+    },
+    {
+        "text": "THANK",
+        "left": 61,
+        "top": 1143,
+        "width": 71,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "YOU",
+        "left": 150,
+        "top": 1145,
+        "width": 43,
+        "height": 23,
+        "conf": 96
+    },
+    {
+        "text": "PLEASE",
+        "left": 209,
+        "top": 1146,
+        "width": 87,
+        "height": 23,
+        "conf": 96
+    },
+    {
+        "text": "COME",
+        "left": 312,
+        "top": 1146,
+        "width": 60,
+        "height": 24,
+        "conf": 92
+    },
+    {
+        "text": "AGAIN!!",
+        "left": 389,
+        "top": 1147,
+        "width": 100,
+        "height": 24,
+        "conf": 89
+    },
+    {
+        "text": "TASTY",
+        "left": 56,
+        "top": 1182,
+        "width": 72,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "BAKING",
+        "left": 145,
+        "top": 1184,
+        "width": 87,
+        "height": 24,
+        "conf": 96
+    },
+    {
+        "text": "HEALTHY",
+        "left": 248,
+        "top": 1185,
+        "width": 103,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "NATION!!!",
+        "left": 368,
+        "top": 1186,
+        "width": 131,
+        "height": 25,
+        "conf": 92
+    },
+    {
+        "text": "ssVisit",
+        "left": 61,
+        "top": 1222,
+        "width": 102,
+        "height": 25,
+        "conf": 23
+    },
+    {
+        "text": "us",
+        "left": 179,
+        "top": 1230,
+        "width": 27,
+        "height": 18,
+        "conf": 96
+    },
+    {
+        "text": "online",
+        "left": 224,
+        "top": 1225,
+        "width": 86,
+        "height": 24,
+        "conf": 96
+    },
+    {
+        "text": "at",
+        "left": 328,
+        "top": 1226,
+        "width": 29,
+        "height": 24,
+        "conf": 93
+    },
+    {
+        "text": "www.kings.com.my==",
+        "left": 375,
+        "top": 1226,
+        "width": 270,
+        "height": 32,
+        "conf": 32
+    }
+]

@@ -1,0 +1,578 @@
+[
+    {
+        "text": "Ampang",
+        "left": 170,
+        "top": 21,
+        "width": 128,
+        "height": 29,
+        "conf": 96
+    },
+    {
+        "text": "210",
+        "left": 308,
+        "top": 21,
+        "width": 55,
+        "height": 24,
+        "conf": 96
+    },
+    {
+        "text": "First",
+        "left": 73,
+        "top": 59,
+        "width": 66,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "City",
+        "left": 148,
+        "top": 58,
+        "width": 59,
+        "height": 33,
+        "conf": 96
+    },
+    {
+        "text": "Parking",
+        "left": 218,
+        "top": 57,
+        "width": 114,
+        "height": 37,
+        "conf": 94
+    },
+    {
+        "text": "Sdn",
+        "left": 342,
+        "top": 57,
+        "width": 54,
+        "height": 43,
+        "conf": 93
+    },
+    {
+        "text": "Bhd",
+        "left": 409,
+        "top": 56,
+        "width": 57,
+        "height": 27,
+        "conf": 96
+    },
+    {
+        "text": "(961394-x)\"",
+        "left": 206,
+        "top": 86,
+        "width": 169,
+        "height": 32,
+        "conf": 0
+    },
+    {
+        "text": "~",
+        "left": 359,
+        "top": 82,
+        "width": 19,
+        "height": 44,
+        "conf": 36
+    },
+    {
+        "text": "4-08-10",
+        "left": 109,
+        "top": 163,
+        "width": 99,
+        "height": 20,
+        "conf": 0
+    },
+    {
+        "text": "Prima",
+        "left": 222,
+        "top": 162,
+        "width": 71,
+        "height": 20,
+        "conf": 96
+    },
+    {
+        "text": "Avenue",
+        "left": 307,
+        "top": 162,
+        "width": 85,
+        "height": 20,
+        "conf": 96
+    },
+    {
+        "text": "The",
+        "left": 53,
+        "top": 195,
+        "width": 41,
+        "height": 22,
+        "conf": 89
+    },
+    {
+        "text": "Tube,",
+        "left": 109,
+        "top": 194,
+        "width": 63,
+        "height": 24,
+        "conf": 94
+    },
+    {
+        "text": "1/39,",
+        "left": 198,
+        "top": 191,
+        "width": 60,
+        "height": 26,
+        "conf": 91
+    },
+    {
+        "text": "Dataran",
+        "left": 278,
+        "top": 193,
+        "width": 100,
+        "height": 22,
+        "conf": 89
+    },
+    {
+        "text": "Prima",
+        "left": 392,
+        "top": 193,
+        "width": 70,
+        "height": 21,
+        "conf": 96
+    },
+    {
+        "text": "47301",
+        "left": 109,
+        "top": 227,
+        "width": 68,
+        "height": 21,
+        "conf": 95
+    },
+    {
+        "text": "Petaling",
+        "left": 194,
+        "top": 226,
+        "width": 113,
+        "height": 23,
+        "conf": 95
+    },
+    {
+        "text": "Jaya",
+        "left": 321,
+        "top": 225,
+        "width": 57,
+        "height": 24,
+        "conf": 96
+    },
+    {
+        "text": "Selangor",
+        "left": 166,
+        "top": 258,
+        "width": 113,
+        "height": 24,
+        "conf": 94
+    },
+    {
+        "text": "DE",
+        "left": 293,
+        "top": 257,
+        "width": 28,
+        "height": 21,
+        "conf": 96
+    },
+    {
+        "text": "(GST",
+        "left": 69,
+        "top": 289,
+        "width": 55,
+        "height": 25,
+        "conf": 96
+    },
+    {
+        "text": "ID",
+        "left": 141,
+        "top": 290,
+        "width": 25,
+        "height": 21,
+        "conf": 95
+    },
+    {
+        "text": "No",
+        "left": 180,
+        "top": 290,
+        "width": 29,
+        "height": 21,
+        "conf": 90
+    },
+    {
+        "text": ":",
+        "left": 227,
+        "top": 295,
+        "width": 5,
+        "height": 16,
+        "conf": 87
+    },
+    {
+        "text": "001656262656",
+        "left": 251,
+        "top": 287,
+        "width": 184,
+        "height": 25,
+        "conf": 90
+    },
+    {
+        "text": ")",
+        "left": 425,
+        "top": 283,
+        "width": 14,
+        "height": 37,
+        "conf": 92
+    },
+    {
+        "text": "Tel",
+        "left": 124,
+        "top": 322,
+        "width": 36,
+        "height": 21,
+        "conf": 88
+    },
+    {
+        "text": ":",
+        "left": 185,
+        "top": 326,
+        "width": 5,
+        "height": 16,
+        "conf": 88
+    },
+    {
+        "text": "08-7887",
+        "left": 209,
+        "top": 321,
+        "width": 98,
+        "height": 22,
+        "conf": 92
+    },
+    {
+        "text": "2622",
+        "left": 321,
+        "top": 321,
+        "width": 57,
+        "height": 21,
+        "conf": 95
+    },
+    {
+        "text": "Tax",
+        "left": 96,
+        "top": 386,
+        "width": 86,
+        "height": 21,
+        "conf": 89
+    },
+    {
+        "text": "Imvoice",
+        "left": 216,
+        "top": 386,
+        "width": 192,
+        "height": 21,
+        "conf": 75
+    },
+    {
+        "text": "7S",
+        "left": 19,
+        "top": 448,
+        "width": 35,
+        "height": 26,
+        "conf": 28
+    },
+    {
+        "text": "#03",
+        "left": 68,
+        "top": 450,
+        "width": 42,
+        "height": 22,
+        "conf": 49
+    },
+    {
+        "text": "A",
+        "left": 139,
+        "top": 450,
+        "width": 14,
+        "height": 22,
+        "conf": 51
+    },
+    {
+        "text": "INV-No.",
+        "left": 170,
+        "top": 444,
+        "width": 89,
+        "height": 38,
+        "conf": 51
+    },
+    {
+        "text": "2003160418000001",
+        "left": 271,
+        "top": 444,
+        "width": 218,
+        "height": 38,
+        "conf": 85
+    },
+    {
+        "text": "(7D",
+        "left": 19,
+        "top": 482,
+        "width": 35,
+        "height": 24,
+        "conf": 0
+    },
+    {
+        "text": "#22",
+        "left": 69,
+        "top": 484,
+        "width": 42,
+        "height": 21,
+        "conf": 92
+    },
+    {
+        "text": "Ticket",
+        "left": 266,
+        "top": 482,
+        "width": 86,
+        "height": 21,
+        "conf": 92
+    },
+    {
+        "text": "No.071811",
+        "left": 366,
+        "top": 481,
+        "width": 124,
+        "height": 22,
+        "conf": 5
+    },
+    {
+        "text": "intry",
+        "left": 19,
+        "top": 517,
+        "width": 64,
+        "height": 23,
+        "conf": 52
+    },
+    {
+        "text": "Time",
+        "left": 97,
+        "top": 516,
+        "width": 56,
+        "height": 21,
+        "conf": 79
+    },
+    {
+        "text": "16/04/2018",
+        "left": 185,
+        "top": 513,
+        "width": 138,
+        "height": 24,
+        "conf": 79
+    },
+    {
+        "text": "(Mon)",
+        "left": 340,
+        "top": 512,
+        "width": 69,
+        "height": 25,
+        "conf": 92
+    },
+    {
+        "text": "8:21",
+        "left": 437,
+        "top": 513,
+        "width": 53,
+        "height": 21,
+        "conf": 92
+    },
+    {
+        "text": "aid",
+        "left": 19,
+        "top": 549,
+        "width": 50,
+        "height": 19,
+        "conf": 0
+    },
+    {
+        "text": "Time",
+        "left": 83,
+        "top": 548,
+        "width": 57,
+        "height": 19,
+        "conf": 94
+    },
+    {
+        "text": "16/04/2018",
+        "left": 186,
+        "top": 545,
+        "width": 138,
+        "height": 22,
+        "conf": 76
+    },
+    {
+        "text": "(Mon)",
+        "left": 340,
+        "top": 544,
+        "width": 69,
+        "height": 23,
+        "conf": 94
+    },
+    {
+        "text": "9:49",
+        "left": 437,
+        "top": 545,
+        "width": 57,
+        "height": 20,
+        "conf": 95
+    },
+    {
+        "text": "-arking",
+        "left": 19,
+        "top": 579,
+        "width": 92,
+        "height": 23,
+        "conf": 53
+    },
+    {
+        "text": "Time",
+        "left": 125,
+        "top": 578,
+        "width": 57,
+        "height": 20,
+        "conf": 95
+    },
+    {
+        "text": "1:28",
+        "left": 441,
+        "top": 576,
+        "width": 53,
+        "height": 20,
+        "conf": 96
+    },
+    {
+        "text": "-arking",
+        "left": 19,
+        "top": 610,
+        "width": 93,
+        "height": 24,
+        "conf": 40
+    },
+    {
+        "text": "Fee",
+        "left": 126,
+        "top": 609,
+        "width": 42,
+        "height": 21,
+        "conf": 95
+    },
+    {
+        "text": "Rate",
+        "left": 239,
+        "top": 609,
+        "width": 57,
+        "height": 20,
+        "conf": 95
+    },
+    {
+        "text": "A",
+        "left": 310,
+        "top": 608,
+        "width": 14,
+        "height": 21,
+        "conf": 96
+    },
+    {
+        "text": "RM7",
+        "left": 409,
+        "top": 607,
+        "width": 42,
+        "height": 21,
+        "conf": 90
+    },
+    {
+        "text": "Amount",
+        "left": 15,
+        "top": 669,
+        "width": 83,
+        "height": 36,
+        "conf": 79
+    },
+    {
+        "text": "RM6.",
+        "left": 410,
+        "top": 671,
+        "width": 49,
+        "height": 20,
+        "conf": 30
+    },
+    {
+        "text": "3$TCIncluded)",
+        "left": 19,
+        "top": 702,
+        "width": 179,
+        "height": 27,
+        "conf": 7
+    },
+    {
+        "text": "6.00",
+        "left": 240,
+        "top": 704,
+        "width": 57,
+        "height": 21,
+        "conf": 88
+    },
+    {
+        "text": "%",
+        "left": 311,
+        "top": 702,
+        "width": 14,
+        "height": 23,
+        "conf": 89
+    },
+    {
+        "text": "RYO",
+        "left": 410,
+        "top": 702,
+        "width": 43,
+        "height": 21,
+        "conf": 68
+    },
+    {
+        "text": "Inclusive",
+        "left": 159,
+        "top": 866,
+        "width": 124,
+        "height": 21,
+        "conf": 95
+    },
+    {
+        "text": "64",
+        "left": 297,
+        "top": 864,
+        "width": 29,
+        "height": 23,
+        "conf": 67
+    },
+    {
+        "text": "GST",
+        "left": 340,
+        "top": 865,
+        "width": 42,
+        "height": 21,
+        "conf": 94
+    },
+    {
+        "text": "Tnark",
+        "left": 213,
+        "top": 897,
+        "width": 70,
+        "height": 21,
+        "conf": 81
+    },
+    {
+        "text": "You",
+        "left": 298,
+        "top": 897,
+        "width": 42,
+        "height": 20,
+        "conf": 95
+    }
+]
